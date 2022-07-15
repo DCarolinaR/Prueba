@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Prueba_Autoestudio_CedulaA</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>4e13eb2c-aff9-4804-a815-32946f3e4cd0</testSuiteGuid>
+   <testCaseLink>
+      <guid>56e0df4e-888e-4286-a250-bed23ae3a6e2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Prueba_Autoestudio_CedulaA</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>cf9ef4f8-9345-4ed7-a669-7f298d4a52e3</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Usuarios</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>cf9ef4f8-9345-4ed7-a669-7f298d4a52e3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>usuario</value>
+         <variableId>252b644a-1e02-49b9-a6c4-02be3845efc5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>cf9ef4f8-9345-4ed7-a669-7f298d4a52e3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pass</value>
+         <variableId>aebea1df-d78d-47ad-a341-55597419a481</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

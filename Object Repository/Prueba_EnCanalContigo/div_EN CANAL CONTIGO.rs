@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_EN CANAL CONTIGO</name>
+   <tag></tag>
+   <elementGuidId>a47617ea-15e1-4894-b834-6e6d9aa9cb32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tit-con']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tit-con</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>862e5d21-6cf6-46e7-9952-a507b08398b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>tit-con</value>
+      <webElementGuid>3fc7c616-4c81-4e6b-9177-4ac7a572f4e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> EN CANAL CONTIGO </value>
+      <webElementGuid>e3dad43b-55d7-46a8-b07e-4144d36f8ab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tit-con&quot;)</value>
+      <webElementGuid>5dcf71c5-2075-4067-ad55-71a0fbc44b04</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='tit-con']</value>
+      <webElementGuid>b1c7cb81-db71-4e5e-b707-76527ffe187a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='titulo-contigo']/div</value>
+      <webElementGuid>a6ea3fd8-4c17-4996-906b-0c2f47283efd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notas informativas'])[1]/following::div[19]</value>
+      <webElementGuid>8728f0de-c16f-4083-b198-86b1bf400524</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Circulares'])[1]/following::div[19]</value>
+      <webElementGuid>0aac871e-5f3e-40a1-a093-64baf9882316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cierre Operaciones ⏰'])[1]/preceding::div[2]</value>
+      <webElementGuid>eebfbe8c-b16a-49fc-8c25-5ee2c6ce0a99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='? Conoce las fechas de junio'])[1]/preceding::div[3]</value>
+      <webElementGuid>67b2191d-76ec-4d06-b0ee-82a2f027ffe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='EN CANAL CONTIGO']/parent::*</value>
+      <webElementGuid>6b3dbc3f-b2cc-4273-87c9-d575db7bad1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/article/div/div/div/div</value>
+      <webElementGuid>14656bd9-9444-40b7-8e48-bc8f7c6d1e92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'tit-con' and (text() = ' EN CANAL CONTIGO ' or . = ' EN CANAL CONTIGO ')]</value>
+      <webElementGuid>e581d418-462d-47dc-9916-6d9048011dde</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Pruebas</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>5</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>8158de36-1851-4919-aad6-8b82333d10ed</testSuiteGuid>
+   <testCaseLink>
+      <guid>dadab054-cbf8-401a-bba9-98c1a73c60a7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Prueba_Calendario_Cursos</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>7a3bf5a4-d5a2-4b9a-9033-758e7c595ae0</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Usuarios</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>7a3bf5a4-d5a2-4b9a-9033-758e7c595ae0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>usuario</value>
+         <variableId>17557a55-2d78-46ee-8aba-a1a3ff9481fb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7a3bf5a4-d5a2-4b9a-9033-758e7c595ae0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pass</value>
+         <variableId>1e443757-f858-479b-95f5-d010f1e00727</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
