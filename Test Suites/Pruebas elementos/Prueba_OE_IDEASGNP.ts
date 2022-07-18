@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Prueba_OE_IDEASGNP</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>5</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>4a00e070-ecf7-4080-a8c3-da2d8f9dba20</testSuiteGuid>
+   <testCaseLink>
+      <guid>5bbd99e8-22c2-40d0-a30d-f453a0eb7848</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/MP_OE_IDEAS GNP</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>23ac1840-1338-4da0-afb8-813689147574</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Usuarios</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>23ac1840-1338-4da0-afb8-813689147574</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>usuario</value>
+         <variableId>a4da979d-a19e-4700-9f78-3e1395b6ae1f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>23ac1840-1338-4da0-afb8-813689147574</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pass</value>
+         <variableId>69deb15c-4fa3-483e-ba18-261216b53a4e</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

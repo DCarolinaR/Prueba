@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Biaani Autos 911 - biaani.autos911</name>
+   <tag></tag>
+   <elementGuidId>2ad58bf0-c324-4df8-8ef2-cfd4363b3d4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='w-username']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#w-username</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d1303f35-02bf-4813-89e1-4301313c46ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>w-username</value>
+      <webElementGuid>50c66022-07d2-4d3e-ae06-7b4713d459a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+			Biaani# Autos 911 - biaani.autos911		</value>
+      <webElementGuid>061218c0-49bb-4fd3-a1f7-bcc59d7f4a12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w-username&quot;)</value>
+      <webElementGuid>5e8dfefd-6aa2-4665-b446-3c0e780ea790</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='w-username']</value>
+      <webElementGuid>dd98f348-d1e2-4753-98af-65694020d9c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='info-profile']/span[2]</value>
+      <webElementGuid>f1215fd7-f606-42a4-a15d-2b1a1a8d7d44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¡Bienvenido!'])[1]/following::span[1]</value>
+      <webElementGuid>77d4a1c7-70fc-4de1-8a79-3a6064d6063b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ética y Cumplimiento'])[3]/following::span[2]</value>
+      <webElementGuid>f7cccf89-c7a4-4459-baa2-9b4bb563f10c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Curso'])[1]/preceding::span[1]</value>
+      <webElementGuid>4967b8d1-8c1c-4126-94af-74049f2343ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-Learning'])[1]/preceding::span[1]</value>
+      <webElementGuid>ae167355-363c-4c49-83b6-9bd5c8bd9424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Biaani# Autos 911 - biaani.autos911']/parent::*</value>
+      <webElementGuid>3088bbe9-829c-4c86-8316-cd9011944ca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span[2]</value>
+      <webElementGuid>c74ab103-c1dc-4d69-80e3-5699c1f18d2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'w-username' and (text() = ' 
+			Biaani# Autos 911 - biaani.autos911		' or . = ' 
+			Biaani# Autos 911 - biaani.autos911		')]</value>
+      <webElementGuid>1658616e-7ce6-46ea-bc03-639d78a9655a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_An no tienes tu cdula definitiva Capact_d04ed3</name>
+   <tag></tag>
+   <elementGuidId>c0220870-ca01-45eb-bebd-2b90a0f25440</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#subtitle-cedula</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='subtitle-cedula']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>68b0bd3c-ca09-4f93-8088-f4f1ab3ab053</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>subtitle-cedula</value>
+      <webElementGuid>f8965064-b8e5-47a2-a2cd-eb303447dcba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>¿Aún no tienes tu cédula definitiva? ¡Capacítate y consíguela! </value>
+      <webElementGuid>7b77b89f-d5fd-4231-b220-5a7a79eaee0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;subtitle-cedula&quot;)</value>
+      <webElementGuid>051e18b0-c768-4a2b-b912-51782be8803c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='subtitle-cedula']</value>
+      <webElementGuid>59dac154-0c7b-4419-a578-e6dba9ac6a10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cedula']/div[2]</value>
+      <webElementGuid>baea26f7-6fea-474d-a76f-075fbfe89e66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cédula A'])[3]/following::div[1]</value>
+      <webElementGuid>7082c269-3806-4bb8-8a2f-a9d078627302</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cerrar'])[1]/following::div[3]</value>
+      <webElementGuid>b48bea09-14e6-490e-86b9-1b0f245d023c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Qué es la Cédula A?'])[1]/preceding::div[11]</value>
+      <webElementGuid>8b9c4f3b-e948-4a27-b928-7a7ac26001cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Riesgos Individuales de Seguro de Personas'])[1]/preceding::div[11]</value>
+      <webElementGuid>a6aa25c5-41c3-423e-9640-1688f9ee1a3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='¿Aún no tienes tu cédula definitiva? ¡Capacítate y consíguela!']/parent::*</value>
+      <webElementGuid>7d10dc9c-38fd-4cba-b79f-cc6a9aa567c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div[2]</value>
+      <webElementGuid>0d087267-5283-4e59-b42e-6671a027c893</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'subtitle-cedula' and (text() = '¿Aún no tienes tu cédula definitiva? ¡Capacítate y consíguela! ' or . = '¿Aún no tienes tu cédula definitiva? ¡Capacítate y consíguela! ')]</value>
+      <webElementGuid>1916be53-56a7-4710-a873-54835b4141f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

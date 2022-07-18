@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Prueba_Autoestudio_CedulaA2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>90efb862-a2cf-4d74-8a64-56da6ce6caa9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ea4780da-d4b2-4ff4-9448-f6be45ec5954</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4c613ed1-795d-4e11-91b0-34f6149c7e56</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ea4780da-d4b2-4ff4-9448-f6be45ec5954</id>
+      <masked>false</masked>
+      <name>usuario</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4c613ed1-795d-4e11-91b0-34f6149c7e56</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>

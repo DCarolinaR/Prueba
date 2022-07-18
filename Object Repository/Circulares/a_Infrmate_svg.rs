@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Infrmate_svg</name>
+   <tag></tag>
+   <elementGuidId>1ceb496c-a1a6-4f01-8f5d-ffbcb58181d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;art-main&quot;]/div[2]/div[2]/div/div[1]/article/div/div/table[2]/tbody/tr/td[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3adda4ce-e5e2-44aa-9a80-b58e1fd8879d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>7a337a87-7075-4835-9df3-67ce78a9a000</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/index.php/comunicacion-gnp/circulares</value>
+      <webElementGuid>806f1bd8-ef9a-4e99-8ce1-d930516d061f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;art-main&quot;)/div[@class=&quot;art-sheet clearfix&quot;]/div[@class=&quot;art-content-layout&quot;]/div[@class=&quot;art-content-layout-row&quot;]/div[@class=&quot;art-layout-cell&quot;]/article[@class=&quot;art-post&quot;]/div[@class=&quot;art-postcontent clearfix&quot;]/div[@class=&quot;custom&quot;]/table[@class=&quot;tbl_aprende_informate_1&quot;]/tbody[1]/tr[1]/td[2]/a[@class=&quot;svg&quot;]</value>
+      <webElementGuid>ebb573b0-4a8b-4038-bbab-b130e5193c14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='art-main']/div[2]/div[2]/div/div/article/div/div/table[2]/tbody/tr/td[2]/a</value>
+      <webElementGuid>c93c7bf3-0b44-47a5-9d1c-604906b07e7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Infórmate'])[1]/following::a[1]</value>
+      <webElementGuid>ae142e2a-3b09-48e2-9327-08897c52ffb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aprende'])[1]/following::a[6]</value>
+      <webElementGuid>aeaf0795-46be-4ce7-a063-0db080811854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aviso de privacidad'])[1]/preceding::a[10]</value>
+      <webElementGuid>91b4e92f-d7a0-4ae2-a4f7-86e3297cd7ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/index.php/comunicacion-gnp/circulares')])[2]</value>
+      <webElementGuid>40e49bd9-14fd-41ed-9f09-f06a8ae6ea7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[2]/tbody/tr/td[2]/a</value>
+      <webElementGuid>0b42f55c-994b-4246-b6a1-8eca9d57f3c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/index.php/comunicacion-gnp/circulares']</value>
+      <webElementGuid>6440e783-683b-4094-a3c5-8133fd0b32fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

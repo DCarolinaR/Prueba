@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Etica y Cumplimiento</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>5</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>15ee6e18-b56b-4e76-9659-7d85fc62da1f</testSuiteGuid>
+   <testCaseLink>
+      <guid>b015e21f-21a7-4a7f-832a-c2c1933836b7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Etica y Cump/Etica y Cumplimiento</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>7153c365-7783-401c-9bd9-fe86f5d96bed</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>1,3,12,14</value>
+         </iterationEntity>
+         <testDataId>Data Files/Usuarios</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>7153c365-7783-401c-9bd9-fe86f5d96bed</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>usuario</value>
+         <variableId>4e220523-758f-43cc-99ed-ad04c177c448</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7153c365-7783-401c-9bd9-fe86f5d96bed</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pass</value>
+         <variableId>c80eadee-0edb-4b99-9ffb-1849220b96a3</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9bac51da-cb90-48f7-b950-f2c250934c06</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Etica y Cump/Etica y Cumplimiento 2</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>7d12ce3e-17fc-4165-bad5-18221e1f9079</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>2, 5</value>
+         </iterationEntity>
+         <testDataId>Data Files/Usuarios</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>7d12ce3e-17fc-4165-bad5-18221e1f9079</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>usuario</value>
+         <variableId>c9b7c8b6-ed91-4e50-b1e8-a3d7919e4eb6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7d12ce3e-17fc-4165-bad5-18221e1f9079</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pass</value>
+         <variableId>da6ab8a9-4925-440d-bd38-890f57e389af</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>13303864-27a2-4401-b56d-b7f251292713</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Etica y Cump/Etica y Cumplimiento 3</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>bb5f43a5-2c25-4113-bd3c-1b7ab011a2f4</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>6,8,9</value>
+         </iterationEntity>
+         <testDataId>Data Files/Usuarios</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>bb5f43a5-2c25-4113-bd3c-1b7ab011a2f4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>usuario</value>
+         <variableId>2fd7556e-e975-45d9-868b-bf264e85f394</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>bb5f43a5-2c25-4113-bd3c-1b7ab011a2f4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pass</value>
+         <variableId>695cf5a9-81c6-4746-b10f-9c934d6c9770</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3f9ca2d3-93ac-49b4-b937-222fd9364178</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Etica y Cump/EyC4</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9d4107d7-3073-4ad2-9fba-f722245828a8</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>16,17,19</value>
+         </iterationEntity>
+         <testDataId>Data Files/Usuarios</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>9d4107d7-3073-4ad2-9fba-f722245828a8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>usuario</value>
+         <variableId>2bd25882-837e-47b6-8e13-8863bbe53718</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9d4107d7-3073-4ad2-9fba-f722245828a8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pass</value>
+         <variableId>3e4f85d2-9411-4ba2-af16-b1754dea25a1</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>285e7d86-f65b-49fb-9be6-5b5d43859f6c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Etica y Cump/EyC5</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9f23b092-6d24-4653-bcd0-32c66ebc303c</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>4</value>
+         </iterationEntity>
+         <testDataId>Data Files/Usuarios</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>9f23b092-6d24-4653-bcd0-32c66ebc303c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>usuario</value>
+         <variableId>de4a35af-23c8-4ba3-9e76-117347a6318a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9f23b092-6d24-4653-bcd0-32c66ebc303c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pass</value>
+         <variableId>db418aee-2ca1-46ec-8687-e78ac376359d</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ec6c05d6-7d5c-4ec4-a36a-bf24a5bc61aa</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Etica y Cump/EyC6</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>6de1eff5-f92c-43ab-bd78-1437d5ef2f10</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>15</value>
+         </iterationEntity>
+         <testDataId>Data Files/Usuarios</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>6de1eff5-f92c-43ab-bd78-1437d5ef2f10</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>usuario</value>
+         <variableId>4bf9e4ab-2d9e-4e73-b591-3d8b0eac4b96</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6de1eff5-f92c-43ab-bd78-1437d5ef2f10</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pass</value>
+         <variableId>c74bbbda-444f-47f9-b345-d43231e499ce</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
