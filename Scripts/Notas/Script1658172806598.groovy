@@ -19,17 +19,17 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://pru-gnp-portalideas.biaani.com/')
 
-WebUI.setText(findTestObject('Object Repository/Circulares/input_nombreusuario'), usuario)
+WebUI.setText(findTestObject('Object Repository/Notas/input_nombreusuario'), usuario)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Circulares/input_pass'), pass)
+WebUI.setEncryptedText(findTestObject('Object Repository/Notas/input_pass'), pass)
 
-WebUI.click(findTestObject('Object Repository/Circulares/button_Iniciar sesin'))
+WebUI.click(findTestObject('Object Repository/Notas/button_Iniciar sesin'))
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/')
 
-WebUI.click(findTestObject('Object Repository/Circulares/a_Infrmate_svg'))
+WebUI.click(findTestObject('Object Repository/Notas/a_Infrmate_svg'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Circulares/svg_gnp-starfill6f6f6f .gnp-logofill6f6f6fgnp'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Notas/select_TemaHerramientasEstructura Comercial_04129c'), 
     0)
 
 WebUI.closeBrowser()

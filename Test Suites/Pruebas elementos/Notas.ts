@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Notas</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>5</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>5139a688-51c6-4c89-b200-908433d608a2</testSuiteGuid>
+   <testCaseLink>
+      <guid>678f44c8-0c88-4158-ae69-69b7e961dfe0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Notas</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>91eb9f1b-b43f-45a6-a643-25171aa3bc94</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Usuarios</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>91eb9f1b-b43f-45a6-a643-25171aa3bc94</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>usuario</value>
+         <variableId>0079135a-fe99-4588-9712-abf86cc3db78</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>91eb9f1b-b43f-45a6-a643-25171aa3bc94</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pass</value>
+         <variableId>06742f9d-6a9b-4fa4-9641-2332b823faf0</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

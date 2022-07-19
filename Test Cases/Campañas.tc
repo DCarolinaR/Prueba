@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Circulares (informate)</name>
+   <name>Campañas</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>f13a0154-638d-4b29-ba9d-92705255b083</testCaseGuid>
+   <testCaseGuid>dc2feba5-7422-4ef8-89ce-2cd63831eeea</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>fd11a263-0f15-4342-ae02-9d51412ab142</variableId>
+      <variableId>e442cfc5-b6bb-4929-a775-588b04bcba98</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>88ed1659-f409-46bc-b7e5-a42f1ceb8b10</variableId>
+      <variableId>32a1b483-3884-47a5-89be-b5a5ae075647</variableId>
    </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>fd11a263-0f15-4342-ae02-9d51412ab142</id>
+      <id>e442cfc5-b6bb-4929-a775-588b04bcba98</id>
       <masked>false</masked>
       <name>usuario</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>88ed1659-f409-46bc-b7e5-a42f1ceb8b10</id>
+      <id>32a1b483-3884-47a5-89be-b5a5ae075647</id>
       <masked>false</masked>
       <name>pass</name>
    </variable>

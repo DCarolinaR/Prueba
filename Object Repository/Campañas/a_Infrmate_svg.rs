@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Infrmate_svg</name>
+   <tag></tag>
+   <elementGuidId>5d92a55a-6e05-4ff8-85b1-8bda45199ec3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;art-main&quot;]/div[2]/div[2]/div/div[1]/article/div/div/table[2]/tbody/tr/td[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d9a4b7b4-aa36-450f-9ac3-3705910841ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>fcf3b527-d499-4dc9-810c-dac19487e44e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/index.php/comunicacion-gnp/campanas</value>
+      <webElementGuid>e0feca59-3a0e-4ba5-95d4-ed414c2699ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;art-main&quot;)/div[@class=&quot;art-sheet clearfix&quot;]/div[@class=&quot;art-content-layout&quot;]/div[@class=&quot;art-content-layout-row&quot;]/div[@class=&quot;art-layout-cell&quot;]/article[@class=&quot;art-post&quot;]/div[@class=&quot;art-postcontent clearfix&quot;]/div[@class=&quot;custom&quot;]/table[@class=&quot;tbl_aprende_informate_1&quot;]/tbody[1]/tr[1]/td[5]/a[@class=&quot;svg&quot;]</value>
+      <webElementGuid>21e807e9-f013-44ed-a28a-cee948dd40ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='art-main']/div[2]/div[2]/div/div/article/div/div/table[2]/tbody/tr/td[5]/a</value>
+      <webElementGuid>e4f7b693-02a8-40b4-a896-5037daab656f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Infórmate'])[1]/following::a[4]</value>
+      <webElementGuid>d5eb992c-918f-4505-9dc3-cab05d092947</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aprende'])[1]/following::a[9]</value>
+      <webElementGuid>86ddebd2-d115-4f55-9309-e12f91229574</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aviso de privacidad'])[1]/preceding::a[6]</value>
+      <webElementGuid>c781f211-6c74-4a38-902a-3cb68a16ba49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/index.php/comunicacion-gnp/campanas')])[2]</value>
+      <webElementGuid>d43587b7-cef7-4b34-8c42-04c2685542ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[2]/tbody/tr/td[5]/a</value>
+      <webElementGuid>c0ec101e-677f-4512-b6cd-c7f805529e28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/index.php/comunicacion-gnp/campanas']</value>
+      <webElementGuid>b5c9851f-501d-47b1-8d49-76a87fe00bd4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

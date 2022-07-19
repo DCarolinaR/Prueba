@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Circulares (informate)</name>
+   <name>Notas</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>f13a0154-638d-4b29-ba9d-92705255b083</testCaseGuid>
+   <testCaseGuid>bc71218c-9967-4800-89b3-c25505e7f3a6</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>fd11a263-0f15-4342-ae02-9d51412ab142</variableId>
+      <variableId>0079135a-fe99-4588-9712-abf86cc3db78</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>88ed1659-f409-46bc-b7e5-a42f1ceb8b10</variableId>
+      <variableId>06742f9d-6a9b-4fa4-9641-2332b823faf0</variableId>
    </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>fd11a263-0f15-4342-ae02-9d51412ab142</id>
+      <id>0079135a-fe99-4588-9712-abf86cc3db78</id>
       <masked>false</masked>
       <name>usuario</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>88ed1659-f409-46bc-b7e5-a42f1ceb8b10</id>
+      <id>06742f9d-6a9b-4fa4-9641-2332b823faf0</id>
       <masked>false</masked>
       <name>pass</name>
    </variable>

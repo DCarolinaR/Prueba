@@ -19,18 +19,19 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://pru-gnp-portalideas.biaani.com/')
 
-WebUI.setText(findTestObject('Object Repository/Circulares/input_nombreusuario'), usuario)
+WebUI.setText(findTestObject('Object Repository/Campañas/input_nombreusuario'), usuario)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Circulares/input_pass'), pass)
+WebUI.setEncryptedText(findTestObject('Object Repository/Campañas/input_pass'), pass)
 
-WebUI.click(findTestObject('Object Repository/Circulares/button_Iniciar sesin'))
+WebUI.click(findTestObject('Object Repository/Campañas/button_Iniciar sesin'))
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/')
 
-WebUI.click(findTestObject('Object Repository/Circulares/a_Infrmate_svg'))
+WebUI.click(findTestObject('Object Repository/Campañas/a_Infrmate_svg'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Circulares/svg_gnp-starfill6f6f6f .gnp-logofill6f6f6fgnp'), 
-    0)
+WebUI.rightClick(findTestObject('Object Repository/Campañas/select_TodosgnpDescuentosEstructura Comercial'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Campañas/select_TodosgnpDescuentosEstructura Comercial'), 0)
 
 WebUI.closeBrowser()
 
