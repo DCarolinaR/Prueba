@@ -3,7 +3,7 @@
    <description></description>
    <name>img_Notas informativas_Capturadepantalla201_d4c38e</name>
    <tag></tag>
-   <elementGuidId>d174ec72-b43d-43dc-81c9-161b89e2377d</elementGuidId>
+   <elementGuidId>71692ce3-46c2-4c4b-9064-56b8a14240c9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>cc27fa4c-c880-4159-bd3a-ede191a219d9</webElementGuid>
+      <webElementGuid>a2663ed4-e564-4719-b53d-3236a7446eaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://pru-gnp-portalideas.biaani.com/modules/mod_bcs_calendario/assets/bread3.png</value>
-      <webElementGuid>f42aeb36-1747-4856-bc8c-e4fb0d049175</webElementGuid>
+      <webElementGuid>49511144-6024-4755-865f-9c61f01e27ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>width</name>
       <type>Main</type>
       <value>201</value>
-      <webElementGuid>ec9980d6-19b2-4c9a-9dd2-eb9f332d959d</webElementGuid>
+      <webElementGuid>39bd7d00-e154-4a08-ad7b-f44991a50be3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>height</name>
       <type>Main</type>
       <value>32</value>
-      <webElementGuid>deeb80ae-d4f5-4b48-bc65-8c483d7fa9ef</webElementGuid>
+      <webElementGuid>46d91f56-2df4-4742-b420-b959db7bdbd3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>border</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>6b7c486b-bc7e-449c-b913-d36373a24693</webElementGuid>
+      <webElementGuid>20e32c61-7c2e-498d-9761-17da34486449</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>id</name>
       <type>Main</type>
       <value>Capturadepantalla20170130alas1017_r1_c3</value>
-      <webElementGuid>376f3581-1958-4c55-bc04-f8ef42b60513</webElementGuid>
+      <webElementGuid>db7bb405-f010-42b5-a9a6-c9f7ab853eef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Capturadepantalla20170130alas1017_r1_c3&quot;)</value>
-      <webElementGuid>924c7f93-746e-44d7-ade7-64d6a986844c</webElementGuid>
+      <webElementGuid>18f14ab1-19e9-43a0-b81b-bf1fc319aaf3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//img[@id='Capturadepantalla20170130alas1017_r1_c3']</value>
-      <webElementGuid>cff02450-49ca-4b8a-a336-1921bf8b39b7</webElementGuid>
+      <webElementGuid>84ede705-bfc6-48e5-bc60-4e2f1aa72f44</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='breadcrumbs']/table/tbody/tr[2]/td[3]/a/img</value>
-      <webElementGuid>8e8be679-d151-4a26-a397-30d41e147150</webElementGuid>
+      <webElementGuid>8163bb3d-b802-4208-a779-e41c9187f522</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[contains(@src,'https://pru-gnp-portalideas.biaani.com/modules/mod_bcs_calendario/assets/bread3.png')]</value>
-      <webElementGuid>13dd5180-2607-4074-94a4-82334bd9e0a2</webElementGuid>
+      <webElementGuid>668b279b-d547-4360-8b1e-966ca8308c91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[3]/a/img</value>
-      <webElementGuid>33c4e690-3c3e-4510-a3db-1ce439e74f11</webElementGuid>
+      <webElementGuid>4a4f13f1-95a9-4d26-a470-6674fa95d53e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://pru-gnp-portalideas.biaani.com/modules/mod_bcs_calendario/assets/bread3.png' and @id = 'Capturadepantalla20170130alas1017_r1_c3']</value>
-      <webElementGuid>c14dbdfd-683c-47b4-82e0-66cfc92a9312</webElementGuid>
+      <webElementGuid>d974c750-a147-4144-b3d8-c19f62a61ca3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

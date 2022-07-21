@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Calendario Operaciones</name>
+   <name>Tu curso GNP</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,33 +10,33 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>8d815889-4c13-4e21-a575-f28141b5840b</testSuiteGuid>
+   <testSuiteGuid>64d34645-bf0c-43df-8859-5082638c7f3b</testSuiteGuid>
    <testCaseLink>
-      <guid>7e92a968-12e9-45a9-a844-f97ca54d904b</guid>
+      <guid>75837ab8-7c1e-422b-aebc-a47bbbddadac</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Calendario Operaciones</testCaseId>
+      <testCaseId>Test Cases/Tu curso GNP</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>15f85b0d-282c-4d36-90b3-b05dec5eda1d</id>
+         <id>f9e00097-5206-44f4-9af0-aeb66e0607d1</id>
          <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
+            <iterationType>SPECIFIC</iterationType>
+            <value>2</value>
          </iterationEntity>
          <testDataId>Data Files/Usuarios</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>15f85b0d-282c-4d36-90b3-b05dec5eda1d</testDataLinkId>
+         <testDataLinkId>f9e00097-5206-44f4-9af0-aeb66e0607d1</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>usuario</value>
-         <variableId>e4614238-401b-43d9-a967-7610146f039c</variableId>
+         <variableId>17d6e4cb-29b1-491b-af7c-e58aa3e372e6</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>15f85b0d-282c-4d36-90b3-b05dec5eda1d</testDataLinkId>
+         <testDataLinkId>f9e00097-5206-44f4-9af0-aeb66e0607d1</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>pass</value>
-         <variableId>abcbfd28-7144-45bb-83f8-a16bb71439aa</variableId>
+         <variableId>60459b9e-667a-4d57-ae25-9e3a998c846d</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

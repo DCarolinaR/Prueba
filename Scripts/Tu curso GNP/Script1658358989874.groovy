@@ -19,19 +19,17 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://pru-gnp-portalideas.biaani.com/')
 
-WebUI.setText(findTestObject('Object Repository/Calendario Operaciones/input_nombreusuario'), usuario)
+WebUI.setText(findTestObject('Object Repository/Tu curso GNP/input_nombreusuario'), usuario)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Calendario Operaciones/input_pass'), pass)
+WebUI.setEncryptedText(findTestObject('Object Repository/Tu curso GNP/input_pass'), pass)
 
-WebUI.click(findTestObject('Object Repository/Calendario Operaciones/button_Iniciar sesin'))
+WebUI.click(findTestObject('Object Repository/Tu curso GNP/button_Iniciar sesin'))
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/')
 
-WebUI.click(findTestObject('Object Repository/Calendario Operaciones/a_Infrmate_svg'))
+WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/mi-plan-de-carrera/abc-del-agente?rand=0.14785122515130156')
 
-WebUI.rightClick(findTestObject('Object Repository/Calendario Operaciones/img_Notas informativas_Capturadepantalla201_d4c38e'))
-
-WebUI.rightClick(findTestObject('Object Repository/Calendario Operaciones/img_Notas informativas_Capturadepantalla201_d4c38e'))
+WebUI.verifyElementText(findTestObject('Object Repository/Tu curso GNP/div_Detalle de Cursos'), 'Detalle de Cursos')
 
 WebUI.closeBrowser()
 

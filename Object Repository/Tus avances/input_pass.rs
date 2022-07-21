@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_nombreusuario</name>
+   <name>input_pass</name>
    <tag></tag>
-   <elementGuidId>8930fa6e-8482-4a92-9d4b-6334997f7347</elementGuidId>
+   <elementGuidId>990cc00d-7231-484a-be33-425c775339c6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='modlgn-username']</value>
+         <key>CSS</key>
+         <value>#modlgn-passwd</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#modlgn-username</value>
+         <key>XPATH</key>
+         <value>//input[@id='modlgn-passwd']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,31 +22,31 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>49563c47-045a-4dfc-be4a-d9d16536a8f0</webElementGuid>
+      <webElementGuid>7fd589c8-1f3e-4a9e-9482-d102c0b0ab73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>modlgn-username</value>
-      <webElementGuid>2cadfe67-d85e-49ec-b80d-43f633b61bc5</webElementGuid>
+      <value>modlgn-passwd</value>
+      <webElementGuid>4ba54f05-d577-4257-b10d-5cfe9114bd12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>d1e28943-a51b-4349-94e4-5e2279d87ad5</webElementGuid>
+      <value>password</value>
+      <webElementGuid>574e0b77-e84c-4a00-ba05-5b381c142892</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>a98c6edc-1533-4859-9566-fc8e3977ca3c</webElementGuid>
+      <value>password</value>
+      <webElementGuid>a6627e04-b8d7-4ff6-97fc-35a21d264ead</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-small</value>
-      <webElementGuid>7558f438-0ea6-4911-bc99-d75ba697a676</webElementGuid>
+      <webElementGuid>28281277-2a07-4d78-9ca2-7659aeea5965</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>55cd35b0-ae08-483f-a48e-7694f4b9c497</webElementGuid>
+      <webElementGuid>c83efd2b-ac53-4bf8-b63a-b0edff142256</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,54 +70,54 @@
       <name>size</name>
       <type>Main</type>
       <value>18</value>
-      <webElementGuid>214d0df8-5e46-4cd4-9664-a16087c70a5e</webElementGuid>
+      <webElementGuid>120173aa-2d0d-4a7f-9880-7970d0a6bdad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>USUARIO</value>
-      <webElementGuid>8306f755-dd9a-4bfe-a1a5-5a9e93f86556</webElementGuid>
+      <value>CONTRASEÑA</value>
+      <webElementGuid>262d3bdc-33e9-4bc2-b4de-5f6ac7bdf50c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;modlgn-username&quot;)</value>
-      <webElementGuid>58e9fd46-2b8d-4d77-9ef9-c3fcdd4c7249</webElementGuid>
+      <value>id(&quot;modlgn-passwd&quot;)</value>
+      <webElementGuid>752724a8-7805-4b33-8655-116b4e03d920</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='modlgn-username']</value>
-      <webElementGuid>0a55f217-3c90-4df2-bb3c-02ea62d6348a</webElementGuid>
+      <value>//input[@id='modlgn-passwd']</value>
+      <webElementGuid>8c5e8016-203f-47e8-b105-74c6c5c966fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='form-login-username']/div/div/input</value>
-      <webElementGuid>61306ab3-d2ef-40d2-9479-e3495504a781</webElementGuid>
+      <value>//div[@id='form-login-password']/div/div/span/input</value>
+      <webElementGuid>4fffe0b2-ae26-4351-bba2-3efd991bb11f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>efcbf9ac-7b84-4b9d-ba73-ac82041f1fac</webElementGuid>
+      <value>//span/input</value>
+      <webElementGuid>05b309d2-1ee7-4df6-8555-dcd312ff9485</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'modlgn-username' and @type = 'text' and @name = 'username' and @placeholder = 'USUARIO']</value>
-      <webElementGuid>42504c7c-8c8b-4314-b2f3-ecf1bb92ce7c</webElementGuid>
+      <value>//input[@id = 'modlgn-passwd' and @type = 'password' and @name = 'password' and @placeholder = 'CONTRASEÑA']</value>
+      <webElementGuid>974a8f7c-5418-4231-8cbc-9ea6fc0a8da9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

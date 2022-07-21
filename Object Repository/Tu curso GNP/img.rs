@@ -3,15 +3,15 @@
    <description></description>
    <name>img</name>
    <tag></tag>
-   <elementGuidId>aed4cd35-a25f-4a3b-bac9-5b44363e1a65</elementGuidId>
+   <elementGuidId>79acaa96-6bd1-43de-a92a-53974ec995a5</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='image-home-gnp']/a/img</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>img[alt=&quot;Logo GNP&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='image-home-gnp']/a/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>eb655417-e0e9-4b60-8f08-552954992eee</webElementGuid>
+      <webElementGuid>892a910f-9a3d-4f58-b76a-9c9f63e3a9e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>width</name>
       <type>Main</type>
       <value>98</value>
-      <webElementGuid>8d7959af-c8cd-4976-9923-87da32e3c6a8</webElementGuid>
+      <webElementGuid>3d6550ff-4755-4400-a03c-f029a7b25f76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>height</name>
       <type>Main</type>
       <value>37</value>
-      <webElementGuid>81383c3d-5918-45ed-a277-8783b537bc0b</webElementGuid>
+      <webElementGuid>55f375e7-c61e-4e52-856b-1c8e91745575</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Logo GNP</value>
-      <webElementGuid>f28c1b4a-fab6-4f84-a68d-a465992b621b</webElementGuid>
+      <webElementGuid>364da1d3-492b-4183-b470-867651819725</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/templates/gnp/images/logo-gnp2.png</value>
-      <webElementGuid>ce298f4c-0bcc-4a2b-a487-d42560d897a4</webElementGuid>
+      <webElementGuid>dab82aac-efc3-428c-a7cd-4a3696d1d2f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;image-home-gnp&quot;)/a[1]/img[1]</value>
-      <webElementGuid>82cad79b-54c4-462f-855d-3310f3d151c4</webElementGuid>
+      <webElementGuid>af5999c3-5ee2-40e6-93c2-9a82324fd9e0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='image-home-gnp']/a/img</value>
-      <webElementGuid>adc0d52d-0ed8-4378-9f51-8e233fc80e56</webElementGuid>
+      <webElementGuid>00ba1543-c874-43a4-9ad0-31e285333dbd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Logo GNP']</value>
-      <webElementGuid>e6a6ed30-0c51-4143-8cae-22d8e78add79</webElementGuid>
+      <webElementGuid>d8777060-cb2b-42fb-a6c7-f39e37b923f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//img</value>
-      <webElementGuid>bff391df-abf9-4628-bea3-fc46e4ee6dee</webElementGuid>
+      <webElementGuid>4efc6b2e-6d6d-4200-adf9-c2153a19aae1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@alt = 'Logo GNP' and @src = '/templates/gnp/images/logo-gnp2.png']</value>
-      <webElementGuid>1185aeb8-7b6b-4e74-8040-1e8721273eb4</webElementGuid>
+      <webElementGuid>6da6bd19-6ee8-4736-a409-5d8a30ceaad1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

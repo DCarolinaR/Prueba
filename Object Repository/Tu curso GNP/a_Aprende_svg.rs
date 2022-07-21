@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Aprende_svg</name>
+   <tag></tag>
+   <elementGuidId>e9496e59-4d1d-452a-a88d-8ecbe254f3b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='art-main']/div[2]/div[2]/div/div/article/div/div/table/tbody/tr[2]/td[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>428332d5-37b7-4c9f-89a1-d413d57289f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>d4165c02-886c-4846-b121-e9d14e1682b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/index.php/programacion-abc-plan-de-arranque</value>
+      <webElementGuid>32fc3ef8-0122-4358-a4e6-c206afceb86e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;art-main&quot;)/div[@class=&quot;art-sheet clearfix&quot;]/div[@class=&quot;art-content-layout&quot;]/div[@class=&quot;art-content-layout-row&quot;]/div[@class=&quot;art-layout-cell&quot;]/article[@class=&quot;art-post&quot;]/div[@class=&quot;art-postcontent clearfix&quot;]/div[@class=&quot;custom&quot;]/table[@class=&quot;tbl_aprende_informate&quot;]/tbody[1]/tr[2]/td[4]/a[@class=&quot;svg&quot;]</value>
+      <webElementGuid>635f1bb8-b421-43ec-833a-151c1eb29f51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='art-main']/div[2]/div[2]/div/div/article/div/div/table/tbody/tr[2]/td[4]/a</value>
+      <webElementGuid>27025ad2-01e0-486b-9526-c22389e33a59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aprende'])[1]/following::a[3]</value>
+      <webElementGuid>034e687f-43af-456b-afd7-626231d064f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cargar más noticias'])[1]/following::a[3]</value>
+      <webElementGuid>95731d95-fa84-48f1-8e67-0f07cfda00a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Infórmate'])[1]/preceding::a[3]</value>
+      <webElementGuid>a083f39d-dc7b-4f4e-9484-adcb742a7a91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/index.php/programacion-abc-plan-de-arranque')]</value>
+      <webElementGuid>29960dbd-289f-4753-80d7-17fef2c3a605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/a</value>
+      <webElementGuid>c88bb290-f2fe-49bb-9cc1-6b2f97d54487</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/index.php/programacion-abc-plan-de-arranque']</value>
+      <webElementGuid>ddeacf06-2c82-428b-9310-7f19358ea6af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

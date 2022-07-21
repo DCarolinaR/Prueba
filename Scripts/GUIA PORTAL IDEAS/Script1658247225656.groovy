@@ -17,21 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://pru-gnp-portalideas.biaani.com/')
-
-WebUI.setText(findTestObject('Object Repository/Calendario Operaciones/input_nombreusuario'), usuario)
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Calendario Operaciones/input_pass'), pass)
-
-WebUI.click(findTestObject('Object Repository/Calendario Operaciones/button_Iniciar sesin'))
-
-WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/')
-
-WebUI.click(findTestObject('Object Repository/Calendario Operaciones/a_Infrmate_svg'))
-
-WebUI.rightClick(findTestObject('Object Repository/Calendario Operaciones/img_Notas informativas_Capturadepantalla201_d4c38e'))
-
-WebUI.rightClick(findTestObject('Object Repository/Calendario Operaciones/img_Notas informativas_Capturadepantalla201_d4c38e'))
-
-WebUI.closeBrowser()
-
