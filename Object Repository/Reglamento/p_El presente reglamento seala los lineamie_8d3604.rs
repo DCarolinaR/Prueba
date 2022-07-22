@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_El presente reglamento seala los lineamie_8d3604</name>
+   <tag></tag>
+   <elementGuidId>a4815ed1-f488-4b74-9871-339b5a200c63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='ragnp-parrafo-principal']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ragnp-parrafo-principal</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>bbef5c82-cb76-4128-91e5-370775e4e7a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ragnp-parrafo-principal</value>
+      <webElementGuid>8859c2fd-9dea-4742-a0f4-dce2181f87a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>El presente reglamento señala los lineamientos generales, compromisos y obligaciones que tienen los alumnos al inscribirse a un curso impartido por el Instituto de Desarrollo y Especialización para Asesores en Seguros GNP, con el propósito de lograr óptimos resultados en el proceso de aprendizaje alineado a cada Plan de Carrera implantado en cada regional.</value>
+      <webElementGuid>9d0c538b-6fbb-465d-865d-f183d79c3819</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ragnp-parrafo-principal&quot;)</value>
+      <webElementGuid>dda5d4d6-57ca-4348-904b-73c7e7d30faa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='ragnp-parrafo-principal']</value>
+      <webElementGuid>7bd2abbd-18c4-4b0b-b58b-98d98d331de2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='contenido-reg']/p</value>
+      <webElementGuid>c9c711a4-7820-4779-aaad-6cd8b118c43b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reglamento'])[3]/following::p[1]</value>
+      <webElementGuid>9f430e40-d0f1-4912-b9ab-38ceba845b97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reglamento'])[2]/following::p[1]</value>
+      <webElementGuid>bf8cba6f-d077-4755-b540-04f45b368e93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ASPECTOS GENERALES Y ADMINISTRATIVOS'])[1]/preceding::p[1]</value>
+      <webElementGuid>c8c49e0f-02d4-44a5-8c23-87c8502706e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[1]/preceding::p[1]</value>
+      <webElementGuid>1ef10ee2-f8a0-4caf-975c-0290000e5455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='El presente reglamento señala los lineamientos generales, compromisos y obligaciones que tienen los alumnos al inscribirse a un curso impartido por el Instituto de Desarrollo y Especialización para Asesores en Seguros GNP, con el propósito de lograr óptimos resultados en el proceso de aprendizaje alineado a cada Plan de Carrera implantado en cada regional.']/parent::*</value>
+      <webElementGuid>6b195c70-9183-446a-921b-1c71372b7ee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>181b68dc-19bc-4bda-bbc4-f80a7f8c6df9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'ragnp-parrafo-principal' and (text() = 'El presente reglamento señala los lineamientos generales, compromisos y obligaciones que tienen los alumnos al inscribirse a un curso impartido por el Instituto de Desarrollo y Especialización para Asesores en Seguros GNP, con el propósito de lograr óptimos resultados en el proceso de aprendizaje alineado a cada Plan de Carrera implantado en cada regional.' or . = 'El presente reglamento señala los lineamientos generales, compromisos y obligaciones que tienen los alumnos al inscribirse a un curso impartido por el Instituto de Desarrollo y Especialización para Asesores en Seguros GNP, con el propósito de lograr óptimos resultados en el proceso de aprendizaje alineado a cada Plan de Carrera implantado en cada regional.')]</value>
+      <webElementGuid>8891053c-3c32-410c-aaa7-6ccc97aa3c71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

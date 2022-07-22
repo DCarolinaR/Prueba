@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Induccin GMM</name>
+   <tag></tag>
+   <elementGuidId>85f93fb8-b035-48f2-b0b7-e2fd5b0567d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='titulo']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#titulo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6c55794e-c3e4-4ea6-9c9f-cda1f4741dd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>titulo</value>
+      <webElementGuid>2edada7e-25d0-417d-aaf9-107dd8a24ed6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inducción GMM</value>
+      <webElementGuid>c1ffcb00-3fcf-4c07-981c-ff4445b58cbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;titulo&quot;)</value>
+      <webElementGuid>af6693dd-2ac5-49ee-92e6-734232f432f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='titulo']</value>
+      <webElementGuid>0ccfa041-46c0-4621-9dad-d8700579d9a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div</value>
+      <webElementGuid>748cdcbc-e099-46b7-bce5-c107e15cabfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inducción GMM'])[2]/following::div[3]</value>
+      <webElementGuid>dfe64c28-5eb8-4ba8-a62d-b7e016afa8f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mi Plan de Carrera'])[2]/following::div[3]</value>
+      <webElementGuid>9179dfaf-3302-4f2b-b1a9-b4e9dcad2dbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¡Bienvenido!'])[1]/preceding::div[1]</value>
+      <webElementGuid>a2003fdc-20f0-422e-84b2-964bd5b2e232</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Biaani# Agente - biaani.agentec'])[1]/preceding::div[1]</value>
+      <webElementGuid>a7d9480e-e80e-48ff-a2a5-f5553dd5f4e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div</value>
+      <webElementGuid>46f44d27-78e4-45fc-9f5f-4c7d197a6a53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'titulo' and (text() = 'Inducción GMM' or . = 'Inducción GMM')]</value>
+      <webElementGuid>36b049a3-adea-4bc9-bd2e-2d8f0a5f4557</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

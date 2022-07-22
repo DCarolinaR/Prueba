@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tips de Venta</name>
+   <tag></tag>
+   <elementGuidId>911375eb-0708-44d9-8264-ede4b91e39d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='titulo']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#titulo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d164dde7-32ca-4027-8943-bad1219652c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>titulo</value>
+      <webElementGuid>001ac505-697e-43ef-a7b6-5064cf2e2000</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tips de Venta</value>
+      <webElementGuid>e90aa89f-cac3-4dd6-9ed4-8dccda145b98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;titulo&quot;)</value>
+      <webElementGuid>bc392541-61c2-4afc-b5ff-53c4e9a07752</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='titulo']</value>
+      <webElementGuid>fd5e24eb-9f3b-4695-80d6-a9056a482cb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='titulo-filtros']/div</value>
+      <webElementGuid>8b7e1592-50a2-4e8c-ad54-16cb1a4a536c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tips de Venta'])[2]/following::div[3]</value>
+      <webElementGuid>686cf5f4-7604-4737-abf2-599640a8ac1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Material de Capacitación'])[2]/following::div[3]</value>
+      <webElementGuid>811e97d1-919a-454c-b05e-a66834da46ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Descripción'])[1]/preceding::div[7]</value>
+      <webElementGuid>cf20c8da-f35c-434e-becf-bf210c0a7b11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div</value>
+      <webElementGuid>4250f4b3-ca49-47fb-b59d-1e3e3b2c36e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'titulo' and (text() = 'Tips de Venta' or . = 'Tips de Venta')]</value>
+      <webElementGuid>acc03b79-e927-40bd-bc47-5dfd0f95f0b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
