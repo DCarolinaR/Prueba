@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cursos y designaciones</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e4914ac-bbb4-4797-af87-69b6155f8a9d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a0462e60-4d52-46fc-b2a5-a35edc5b7845</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b2edd3a4-1b9b-4c7a-bc1a-1be9ac6d67fd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a0462e60-4d52-46fc-b2a5-a35edc5b7845</id>
+      <masked>false</masked>
+      <name>usuario</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b2edd3a4-1b9b-4c7a-bc1a-1be9ac6d67fd</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>

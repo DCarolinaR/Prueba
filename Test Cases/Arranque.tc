@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Arranque</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46bbf10a-c413-4fa8-b7f5-b9dbd39edb60</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9b870e18-d13f-4134-b9e4-cf5d5c57132b</id>
+      <masked>false</masked>
+      <name>usuario</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e56520fc-93c2-455f-a2ef-963e123cb27e</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>
