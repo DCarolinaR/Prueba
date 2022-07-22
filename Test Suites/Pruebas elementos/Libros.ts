@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Libros</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>5</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>80417a0d-366f-4aaa-95f1-b6746c0671b7</testSuiteGuid>
+   <testCaseLink>
+      <guid>8a69e2f7-c381-4e9a-9d2e-63a5bf029225</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Libros</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a8ca21e3-eadd-4db9-9f07-c7f333f6d62e</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Usuarios</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>a8ca21e3-eadd-4db9-9f07-c7f333f6d62e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>usuario</value>
+         <variableId>7638d1e7-c7e1-456f-bd7e-d4887c95531b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a8ca21e3-eadd-4db9-9f07-c7f333f6d62e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pass</value>
+         <variableId>c06d2f14-a627-4512-a7f1-fdf375efc2f2</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

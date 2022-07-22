@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cierre Operaciones</name>
+   <tag></tag>
+   <elementGuidId>f71965be-6882-405a-8667-3215f3e2ed4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#latest-joe > div.latest-joe-img > div.latest-joe-title > p > #3891</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='3891'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>af58124b-9f1c-422a-b48e-0cb268c6f31f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>3891</value>
+      <webElementGuid>6121e643-65f6-49f1-ba11-f9b82842e5e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://drive.google.com/file/d/1-Uh8pkQ48OUjLc8w4FoTBgWxt-glnd-F/view</value>
+      <webElementGuid>636ca0c5-0e6e-4df4-81aa-5a0021fc0a67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>latest-joe-title</value>
+      <webElementGuid>436d381f-a499-48ad-9950-0bab865a1214</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cierre Operaciones ⏰</value>
+      <webElementGuid>065798d2-451f-483a-ab8a-8131fc9fcae4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;latest-joe&quot;)/div[@class=&quot;latest-joe-img&quot;]/div[@class=&quot;latest-joe-title&quot;]/p[1]/a[@id=&quot;3891&quot;]</value>
+      <webElementGuid>854d41df-6fa6-48d4-8c56-39933808dc6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@id='3891'])[2]</value>
+      <webElementGuid>6578c216-449e-49ca-be90-50f0f5273aa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='latest-joe']/div/div[2]/p/a</value>
+      <webElementGuid>d3f09bf8-bf8a-4cb2-990d-5a3cdddec085</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cierre Operaciones ⏰')]</value>
+      <webElementGuid>3daab35c-e891-41e1-8af2-76e2d006657b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN CANAL CONTIGO'])[1]/following::a[2]</value>
+      <webElementGuid>c6cdebd5-413b-4def-9c8e-7537248d5799</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notas informativas'])[1]/following::a[6]</value>
+      <webElementGuid>4ec96cf6-ea51-4244-88de-b387bee79091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='? Conoce las fechas de junio'])[1]/preceding::a[1]</value>
+      <webElementGuid>e257496f-d93a-4ef9-8ca4-a2ac29d3b2d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vida Individual'])[1]/preceding::a[2]</value>
+      <webElementGuid>ba58006d-0b5e-49bb-915c-6408de807c59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cierre Operaciones ⏰']/parent::*</value>
+      <webElementGuid>f2134886-239e-45d7-8292-5097b08d0ab7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://drive.google.com/file/d/1-Uh8pkQ48OUjLc8w4FoTBgWxt-glnd-F/view')])[2]</value>
+      <webElementGuid>bd802b84-b6d5-444d-8aba-b7dfe2e6152d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>9669faca-b162-4ec4-ad03-c78e63310302</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = '3891' and @href = 'https://drive.google.com/file/d/1-Uh8pkQ48OUjLc8w4FoTBgWxt-glnd-F/view' and (text() = 'Cierre Operaciones ⏰' or . = 'Cierre Operaciones ⏰')]</value>
+      <webElementGuid>d0c0ce42-44c0-43e9-9958-d29016adc0e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

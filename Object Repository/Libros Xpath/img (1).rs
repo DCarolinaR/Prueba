@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img (1)</name>
+   <tag></tag>
+   <elementGuidId>e2951ee9-1e5f-4f33-aa6e-204110088db7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#3796 > div.img-book > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='3796']/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>d06e7890-a194-4484-8982-09d0bbf94104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://pru-gnp-portalideas.biaani.com/images/Contenido_Portal/Material_de_Capacitacion/libros/2021/81BJluqQAFL_AC_UL600_SR600600__1.jpg</value>
+      <webElementGuid>4c1fb181-19dd-4ca8-8d7a-28854c4458e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;3796&quot;)/div[@class=&quot;img-book&quot;]/img[1]</value>
+      <webElementGuid>20db8b84-8f4e-403c-9608-947544d02e24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='3796']/div/img</value>
+      <webElementGuid>640b4561-e323-4efc-b12e-6393f768e997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://pru-gnp-portalideas.biaani.com/images/Contenido_Portal/Material_de_Capacitacion/libros/2021/81BJluqQAFL_AC_UL600_SR600600__1.jpg')]</value>
+      <webElementGuid>a1cc899f-222d-46be-a059-950f79b4f7c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/div/div/img</value>
+      <webElementGuid>b37d6eb9-80dd-4b5c-bb0a-eff67a65cb18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://pru-gnp-portalideas.biaani.com/images/Contenido_Portal/Material_de_Capacitacion/libros/2021/81BJluqQAFL_AC_UL600_SR600600__1.jpg']</value>
+      <webElementGuid>6fe7f207-f4b0-4ee1-9cab-299bd677e188</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
