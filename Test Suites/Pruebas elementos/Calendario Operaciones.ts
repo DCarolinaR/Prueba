@@ -15,7 +15,7 @@
       <guid>7e92a968-12e9-45a9-a844-f97ca54d904b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Calendario Operaciones</testCaseId>
+      <testCaseId>Test Cases/Informate/Calendario Operaciones</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>15f85b0d-282c-4d36-90b3-b05dec5eda1d</id>

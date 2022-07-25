@@ -15,7 +15,7 @@
       <guid>c6e35f28-14fd-4e5c-87d6-9547d9a2cd42</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Seguro PyMEs</testCaseId>
+      <testCaseId>Test Cases/MP_Oferta Educativa/Seguro PyMEs</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>a4d5a588-bcca-4eb3-be92-09907d054968</id>

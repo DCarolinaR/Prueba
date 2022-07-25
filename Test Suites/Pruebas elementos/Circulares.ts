@@ -15,7 +15,7 @@
       <guid>71c589d5-2343-4bf0-addc-0999936800af</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Circulares (informate)</testCaseId>
+      <testCaseId>Test Cases/Informate/Circulares (informate)</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>c2e98015-d69f-4d23-acaf-922a21af3291</id>

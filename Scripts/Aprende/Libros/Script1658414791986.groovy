@@ -19,18 +19,22 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://pru-gnp-portalideas.biaani.com/')
 
-WebUI.maximizeWindow()
+WebUI.setText(findTestObject('Object Repository/Libros/input_nombreusuario'), usuario)
 
-WebUI.setText(findTestObject('Object Repository/Material de Capacitación/input_La contrasea quehas introducido es in_6ef811'), 
-    'biaani.da')
+WebUI.setEncryptedText(findTestObject('Object Repository/Libros/input_pass'), pass)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Material de Capacitación/input_Deseas recuperar tucontrasea_password'), 
-    'aCNOeMVT6E+hS+e2Ost8OQ==')
+WebUI.click(findTestObject('Object Repository/Libros/button_Iniciar sesin'))
 
-WebUI.click(findTestObject('Material de Capacitación/button_Iniciar sesin'))
+WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/')
 
-WebUI.click(findTestObject('Object Repository/Material de Capacitación/a_Libros'))
+String currentUrl = WebUI.getUrl()
+if (currentUrl == 'https://pru-gnp-portalideas.biaani.com/index.php/material-de-apoyo/libros') {
+	println "OK"
+} else {
+	println "NG"
+}
 
-WebUI.verifyOptionPresentByValue(findTestObject('Material de Capacitación/select_TodosAdministracinHabilidades Profes_6740da'), 
-    'administracion', false, 0)
+WebUI.verifyElementText(findTestObject('Object Repository/Libros/div_Libros'), 'Libros')
+
+WebUI.closeBrowser()
 

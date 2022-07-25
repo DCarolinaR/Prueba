@@ -15,7 +15,7 @@
       <guid>e57c7fae-8ba5-41c3-98ce-8004e4b48bb9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/IDEAS en Corto</testCaseId>
+      <testCaseId>Test Cases/MP_Autoestudio/IDEAS en Corto</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>5cff89c5-2fd4-4e4d-876e-33a1ef9b60bc</id>

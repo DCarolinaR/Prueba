@@ -15,13 +15,13 @@
       <guid>b6fa5986-22ce-4049-b427-33ba7daea1b7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Aula Virtual</testCaseId>
+      <testCaseId>Test Cases/Aprende/Aula Virtual</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>4aed907f-ecf8-4097-b3fe-7793bd673dba</id>
          <iterationEntity>
             <iterationType>SPECIFIC</iterationType>
-            <value>1,2,3,12,14,20,21,22</value>
+            <value>20,21,22</value>
          </iterationEntity>
          <testDataId>Data Files/Usuarios</testDataId>
       </testDataLink>

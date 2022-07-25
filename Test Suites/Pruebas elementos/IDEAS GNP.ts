@@ -15,7 +15,7 @@
       <guid>41f85b05-5029-47eb-9fb5-79bc696fa8c9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/IDEAS GNP</testCaseId>
+      <testCaseId>Test Cases/MP_Oferta Educativa/IDEAS GNP</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>e2d448b9-d26a-4f7d-bec1-c4b8cfcce04c</id>

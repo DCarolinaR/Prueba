@@ -15,7 +15,7 @@
       <guid>efba84c5-3343-437f-8ced-ea191891a82d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Calendario Cursos</testCaseId>
+      <testCaseId>Test Cases/Aprende/Calendario Cursos</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>dc720ca2-ef87-401e-8bcc-b36926703812</id>
