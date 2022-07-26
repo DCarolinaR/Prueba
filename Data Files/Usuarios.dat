@@ -6,7 +6,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator>COMMA</csvSeperator>
    <dataFileGUID>fd5eb937-8b20-4c83-bbf1-9e5cbe3108ab</dataFileGUID>
-   <dataSourceUrl>C:\Users\Cqa\Desktop\Data\Prueba_datos.csv</dataSourceUrl>
+   <dataSourceUrl>/Users/alanmartinezruiz/Downloads/Prueba_datosC_Prueba.csv</dataSourceUrl>
    <driver>CSV</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>

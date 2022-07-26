@@ -21,15 +21,15 @@ WebUI.openBrowser('https://pru-gnp-portalideas.biaani.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/Libros Xpath/input_nombreusuario'), usuario)
+WebUI.setText(findTestObject('Object Repository/Hola/input_La contrasea quehas introducido es in_6ef811'), 'biaani.agenteg1')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Libros Xpath/input_pass'), pass)
+WebUI.setEncryptedText(findTestObject('Object Repository/Hola/input_Deseas recuperar tucontrasea_password'), 'aCNOeMVT6E+hS+e2Ost8OQ==')
 
-WebUI.click(findTestObject('Object Repository/Libros Xpath/button_Iniciar sesin'))
+WebUI.click(findTestObject('Object Repository/Hola/button_Iniciar sesin'))
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/material-de-apoyo/libros')
 
-WebUI.verifyElementText(findTestObject(null), 'Libros')
+WebUI.verifyElementText(findTestObject('Object Repository/Hola/div_Libros'), 'Libros')
 
 WebUI.closeBrowser()
 
