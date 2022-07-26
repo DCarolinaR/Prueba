@@ -31,5 +31,7 @@ WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/')
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/oferta-educativa/quienes-somos?rand=0.14089937697842636')
 
+WebUI.verifyElementText(findTestObject(null), '¿Quiénes somos?')
+
 WebUI.closeBrowser()
 

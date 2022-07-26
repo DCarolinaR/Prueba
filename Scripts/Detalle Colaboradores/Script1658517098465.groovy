@@ -31,5 +31,7 @@ WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/')
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/mi-fuerza-de-ventas-separator/detalles-colaboradores?rand=0.13675776608146273')
 
+WebUI.verifyElementText(findTestObject(null), 'Detalle de Usuarios')
+
 WebUI.closeBrowser()
 
