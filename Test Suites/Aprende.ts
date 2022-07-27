@@ -15,7 +15,7 @@
       <guid>d23ccc60-7550-4c92-bace-a7d9966db82b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Reclutamiento</testCaseId>
+      <testCaseId>Test Cases/Atracción y Desarrollo/Reclutamiento</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>967abb6f-65d6-4203-98c3-eb4269657c0a</id>

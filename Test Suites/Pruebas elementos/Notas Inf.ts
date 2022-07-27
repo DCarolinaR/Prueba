@@ -15,7 +15,7 @@
       <guid>b0dbfbf3-8f9f-4af9-a786-88e9cf6714f7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Informate/Notas Informativas</testCaseId>
+      <testCaseId>Test Cases/HOME/Informate/Notas Informativas</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>dcb60aaa-d15b-4709-b75e-1945c12f3268</id>

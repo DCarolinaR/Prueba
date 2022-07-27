@@ -15,7 +15,7 @@
       <guid>71127631-b389-463d-afff-29bca82f7586</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Vídeos</testCaseId>
+      <testCaseId>Test Cases/Menú Principal/MP_Material de Capacitación/Vídeos</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>d0ff4c70-5499-4ef4-8eb9-3c84f9a5c665</id>

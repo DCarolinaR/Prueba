@@ -15,7 +15,7 @@
       <guid>6a7fc28c-f180-435e-9c77-5c501000fe54</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/En Canal Contigo</testCaseId>
+      <testCaseId>Test Cases/HOME/En Canal Contigo</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>fdb8275b-49d4-474a-9346-ec8ed9fde5d8</id>

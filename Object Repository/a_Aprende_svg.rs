@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Aprende_svg</name>
+   <tag></tag>
+   <elementGuidId>599a3cd8-33c9-46bd-892d-666d010cd8b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='art-main']/div[2]/div[2]/div/div/article/div/div/table/tbody/tr[2]/td[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>39800696-2b3c-4a29-978e-f5e0f8912131</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>ea7e614a-d24e-47d8-b6b2-16afdc133bc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/index.php/component/content/?buscacur=&amp;view=article&amp;id=49&amp;option=com_content&amp;Itemid=564</value>
+      <webElementGuid>5a2d6c87-8c57-4a55-8781-eceb3b8c4a6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;art-main&quot;)/div[@class=&quot;art-sheet clearfix&quot;]/div[@class=&quot;art-content-layout&quot;]/div[@class=&quot;art-content-layout-row&quot;]/div[@class=&quot;art-layout-cell&quot;]/article[@class=&quot;art-post&quot;]/div[@class=&quot;art-postcontent clearfix&quot;]/div[@class=&quot;custom&quot;]/table[@class=&quot;tbl_aprende_informate&quot;]/tbody[1]/tr[2]/td[3]/a[@class=&quot;svg&quot;]</value>
+      <webElementGuid>42fc66b3-3ee0-4fc8-99fb-866ccea860f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='art-main']/div[2]/div[2]/div/div/article/div/div/table/tbody/tr[2]/td[3]/a</value>
+      <webElementGuid>182d4b4f-dada-43b4-9dde-62cd40cb407d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aprende'])[1]/following::a[2]</value>
+      <webElementGuid>05ee3cd9-a99d-4551-84e9-42213f39b8c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cargar más noticias'])[1]/following::a[2]</value>
+      <webElementGuid>19c7c900-ef9e-4f5a-99ec-177c94896ea3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Infórmate'])[1]/preceding::a[4]</value>
+      <webElementGuid>06fae1dd-baf5-4dc3-b983-fbefe268924d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/index.php/component/content/?buscacur=&amp;view=article&amp;id=49&amp;option=com_content&amp;Itemid=564')]</value>
+      <webElementGuid>db4c1f43-ccb7-4be0-b5e8-0cddd49fdd8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/a</value>
+      <webElementGuid>cf2d0aee-102a-46b2-9be4-52c90533900d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/index.php/component/content/?buscacur=&amp;view=article&amp;id=49&amp;option=com_content&amp;Itemid=564']</value>
+      <webElementGuid>051a3b80-cef5-48d6-bbd8-18dd18db91c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

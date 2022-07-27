@@ -15,7 +15,7 @@
       <guid>de683488-2329-486d-9835-122c0406e375</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/MP_Mi plan de carrera/Inducción a GNP</testCaseId>
+      <testCaseId>Test Cases/Menú Principal/MP_Mi plan de carrera/Inducción a GNP</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>595244b7-8044-47d4-bb73-8765d853bea2</id>
