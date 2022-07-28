@@ -15,7 +15,7 @@
       <guid>3390ce64-530f-4123-8ea8-9d5253e3819c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/MP_Autoestudio/Cédula B</testCaseId>
+      <testCaseId>Test Cases/Menú Principal/MP_Autoestudio/Cédula B</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>75167248-94f2-4339-8c71-5f56ab2f410f</id>

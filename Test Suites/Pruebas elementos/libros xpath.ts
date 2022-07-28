@@ -15,7 +15,7 @@
       <guid>36ef550e-40fd-46b5-8a35-a275acf6525e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Aprende/Libros Xpath</testCaseId>
+      <testCaseId>Test Cases/HOME/Aprende/Libros Xpath</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>85f05150-1d44-4408-8718-6d8a364b6cb8</id>

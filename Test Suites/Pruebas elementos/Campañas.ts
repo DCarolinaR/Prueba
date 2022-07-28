@@ -15,13 +15,13 @@
       <guid>1769cb26-1923-4cdf-a47c-1b0351faa845</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Informate/Campañas</testCaseId>
+      <testCaseId>Test Cases/HOME/Informate/Campañas</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>b6610a13-da1a-45d3-afe3-39ebfb8d8bc2</id>
          <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
+            <iterationType>SPECIFIC</iterationType>
+            <value>2</value>
          </iterationEntity>
          <testDataId>Data Files/Usuarios</testDataId>
       </testDataLink>

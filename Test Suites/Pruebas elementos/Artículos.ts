@@ -15,7 +15,7 @@
       <guid>3fb4d235-c4d4-4786-a0ff-f4d2add01e12</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Artículos</testCaseId>
+      <testCaseId>Test Cases/Menú Principal/MP_Material de Capacitación/Artículos</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>8b56859d-ed04-4377-80ce-cf0a78d8c5c0</id>

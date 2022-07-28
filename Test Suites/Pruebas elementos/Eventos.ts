@@ -15,7 +15,7 @@
       <guid>80360197-166b-42ef-926a-3d99aa6de39c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Eventos</testCaseId>
+      <testCaseId>Test Cases/Menú Principal/Eventos</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>45b69948-5e2b-449f-af0e-008f4ec499e8</id>
@@ -26,17 +26,5 @@
          <testDataId>Data Files/Usuarios</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId>45b69948-5e2b-449f-af0e-008f4ec499e8</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>usuario</value>
-         <variableId>6e9b8937-da4d-4cfa-ad07-2dabf30fd1a2</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>45b69948-5e2b-449f-af0e-008f4ec499e8</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>pass</value>
-         <variableId>313c14f8-65fd-47d6-aa08-095796952fef</variableId>
-      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

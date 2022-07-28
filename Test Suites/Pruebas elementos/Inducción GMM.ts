@@ -15,7 +15,7 @@
       <guid>38767502-2fc0-49cd-a4ae-e58d0489b87b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/MP_Mi plan de carrera/Inducción GMM</testCaseId>
+      <testCaseId>Test Cases/Menú Principal/MP_Mi plan de carrera/Inducción GMM</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>0f36c86b-e5b3-4f07-a3e3-5085e119f434</id>

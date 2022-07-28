@@ -3,15 +3,15 @@
    <description></description>
    <name>a_Infrmate_svg</name>
    <tag></tag>
-   <elementGuidId>e77d019b-fda2-42ac-902e-9859490b41b9</elementGuidId>
+   <elementGuidId>c4d2ee37-8e5e-4596-9dac-cfb94f0656c2</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;art-main&quot;]/div[2]/div[2]/div/div[1]/article/div/div/table[2]/tbody/tr/td[4]/a</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='art-main']/div[2]/div[2]/div/div/article/div/div/table[2]/tbody/tr/td[4]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>dcfa5111-3eea-4a03-b897-62615c8dda9a</webElementGuid>
+      <webElementGuid>5ae57752-2688-46a5-818e-0482a0ec5fba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>f3cbf7e1-be30-47ef-ab5e-7086291ff29d</webElementGuid>
+      <webElementGuid>ea84c110-ae84-4a1d-b4e9-ed86e134b8b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/index.php/calendario-de-operaciones</value>
-      <webElementGuid>9813cf5d-4b7d-4aab-9790-5c8ab57cbc87</webElementGuid>
+      <webElementGuid>6b1453de-eec4-41d2-8b82-186ed3489b48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;art-main&quot;)/div[@class=&quot;art-sheet clearfix&quot;]/div[@class=&quot;art-content-layout&quot;]/div[@class=&quot;art-content-layout-row&quot;]/div[@class=&quot;art-layout-cell&quot;]/article[@class=&quot;art-post&quot;]/div[@class=&quot;art-postcontent clearfix&quot;]/div[@class=&quot;custom&quot;]/table[@class=&quot;tbl_aprende_informate_1&quot;]/tbody[1]/tr[1]/td[4]/a[@class=&quot;svg&quot;]</value>
-      <webElementGuid>ebbe0305-1135-48af-af3a-ac473efc307c</webElementGuid>
+      <webElementGuid>cb0ebdc6-e772-40dd-b6bc-28f9d8c82d62</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='art-main']/div[2]/div[2]/div/div/article/div/div/table[2]/tbody/tr/td[4]/a</value>
-      <webElementGuid>ea93c7c7-e51b-48be-86dc-4f65e8db0397</webElementGuid>
+      <webElementGuid>dcd11b8d-4896-4195-849d-2580cf2040e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Infórmate'])[1]/following::a[3]</value>
-      <webElementGuid>9187da61-4f70-4348-bb05-7bfcce0f0ffc</webElementGuid>
+      <webElementGuid>851e2425-d6d6-4d5b-9ae2-1536da4fc292</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Aprende'])[1]/following::a[8]</value>
-      <webElementGuid>d7e5d31f-9d94-4988-ad08-243c273cc388</webElementGuid>
+      <webElementGuid>de5c6509-5840-46ca-a7ce-a0dd58c3a886</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Aviso de privacidad'])[1]/preceding::a[7]</value>
-      <webElementGuid>7becb32e-6f61-4db4-a3a2-406c9c9cdece</webElementGuid>
+      <webElementGuid>6c0bf83a-749f-4e3e-9649-54ecc2ac4006</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/index.php/calendario-de-operaciones')]</value>
-      <webElementGuid>da7f5911-8ead-479b-a585-ccbc14f8aca0</webElementGuid>
+      <webElementGuid>60569c35-a765-492f-a4ec-17575dcb63da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//table[2]/tbody/tr/td[4]/a</value>
-      <webElementGuid>c2155e89-bd44-47f3-977c-6864029c5713</webElementGuid>
+      <webElementGuid>c4a53967-7d81-403a-8ce2-dde75212a034</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/index.php/calendario-de-operaciones']</value>
-      <webElementGuid>8da485fd-c192-4ec9-9799-283842a5fd86</webElementGuid>
+      <webElementGuid>e97cd348-4bf4-4dde-a45f-309f48f08bda</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

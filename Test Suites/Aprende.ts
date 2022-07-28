@@ -15,7 +15,11 @@
       <guid>2ad4f855-f72f-4775-8743-38d096c8980a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
+<<<<<<< HEAD
       <testCaseId>Test Cases/Plan de Carrera</testCaseId>
+=======
+      <testCaseId>Test Cases/Atracción y Desarrollo/Reclutamiento</testCaseId>
+>>>>>>> 51eddc996a547899c2de3238a3cef31e4f7c276c
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>c14ea92e-0928-452b-b589-d79194a0a2bf</id>

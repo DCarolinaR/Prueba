@@ -15,7 +15,7 @@
       <guid>6ce8a3cb-ecfe-41f0-a84c-7199eb807ce9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/MP_Oferta Educativa/Reglamento</testCaseId>
+      <testCaseId>Test Cases/Menú Principal/MP_Oferta Educativa/Reglamento</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>e73da2f8-b123-4bca-a6cb-f193ae810802</id>
