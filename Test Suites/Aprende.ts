@@ -12,31 +12,31 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>8b7e1f81-3789-4748-af49-3a4b45b8f034</testSuiteGuid>
    <testCaseLink>
-      <guid>d23ccc60-7550-4c92-bace-a7d9966db82b</guid>
+      <guid>2ad4f855-f72f-4775-8743-38d096c8980a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Reclutamiento</testCaseId>
+      <testCaseId>Test Cases/Plan de Carrera</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>967abb6f-65d6-4203-98c3-eb4269657c0a</id>
+         <id>c14ea92e-0928-452b-b589-d79194a0a2bf</id>
          <iterationEntity>
             <iterationType>SPECIFIC</iterationType>
-            <value>2,3,4</value>
+            <value>2</value>
          </iterationEntity>
          <testDataId>Data Files/Usuarios</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>967abb6f-65d6-4203-98c3-eb4269657c0a</testDataLinkId>
+         <testDataLinkId>c14ea92e-0928-452b-b589-d79194a0a2bf</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>usuario</value>
-         <variableId>033ab877-8dbc-4652-9ce3-fb5adae9b7fc</variableId>
+         <variableId>0f833462-87b6-46c5-a43d-64bacfc93cca</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>967abb6f-65d6-4203-98c3-eb4269657c0a</testDataLinkId>
+         <testDataLinkId>c14ea92e-0928-452b-b589-d79194a0a2bf</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>pass</value>
-         <variableId>663431c3-8fa6-4f83-a38a-11d98f007b5a</variableId>
+         <variableId>40c47675-f442-40d8-a558-11a5fe1ab005</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
