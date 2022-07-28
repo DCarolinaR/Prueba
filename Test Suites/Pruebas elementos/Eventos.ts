@@ -26,5 +26,17 @@
          <testDataId>Data Files/Usuarios</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7daf71d4-4fc9-49f1-8481-575181196c57</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>488aa7be-1da4-49f7-894f-130310b976ec</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

@@ -27,9 +27,9 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Artículos/input_pass')
 
 WebUI.click(findTestObject('Object Repository/Artículos/button_Iniciar sesin'))
 
-WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/')
+WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/atraccion-y-desarrollo/arranque')
 
-WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/atraccion-y-desarrollo/arranque?rand=0.17024837126163306')
+WebUI.verifyElementText(findTestObject('Objetos/pub_ideas'), 'Arranque')
 
 WebUI.closeBrowser()
 

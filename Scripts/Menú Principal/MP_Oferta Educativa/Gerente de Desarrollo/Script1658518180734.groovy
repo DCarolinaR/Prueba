@@ -29,7 +29,7 @@ WebUI.click(findTestObject('Object Repository/Artículos/button_Iniciar sesin'))
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/oferta-gerdes/gerente-de-desarrollo?rand=0.2032892131497076')
 
-WebUI.verifyElementText(findTestObject(null), 'Gerente de Desarrollo')
+WebUI.verifyElementText(findTestObject('Objetos/gdd_'), 'Gerente de Desarrollo')
 
 WebUI.closeBrowser()
 

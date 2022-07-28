@@ -21,15 +21,15 @@ WebUI.openBrowser('https://pru-gnp-portalideas.biaani.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/Artículos/input_nombreusuario'), 'biaani.agentec')
+WebUI.setText(findTestObject('Object Repository/Artículos/input_nombreusuario'), usuario)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Artículos/input_pass'), 'aCNOeMVT6E+hS+e2Ost8OQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Artículos/input_pass'), pass)
 
 WebUI.click(findTestObject('Object Repository/Artículos/button_Iniciar sesin'))
 
-WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/')
+WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/material-de-apoyo/publicaciones-ideas')
 
-WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/oferta-educativa/ideas-gnp-sp?rand=0.5203731093602816')
+WebUI.verifyElementText(findTestObject('Objetos/pub_ideas'), 'Publicaciones IDEAS')
 
 WebUI.closeBrowser()
 

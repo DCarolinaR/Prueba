@@ -19,11 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://pru-gnp-portalideas.biaani.com/')
 
-WebUI.setText(findTestObject('Object Repository/Eventos/input_nombreusuario'), 'biaani.agentec')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Eventos/input_pass'), 'aCNOeMVT6E+hS+e2Ost8OQ==')
+WebUI.setText(findTestObject('Object Repository/Eventos/input_nombreusuario'), usuario)
 
 WebUI.click(findTestObject('Object Repository/Eventos/button_Iniciar sesin'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Eventos/input_pass'), pass)
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/eventos')
 

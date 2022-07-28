@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Artículos</name>
+   <name>Resultados e Informes</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,33 +10,33 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>ef6369c9-25fb-4576-8a81-1079b3303918</testSuiteGuid>
+   <testSuiteGuid>70d33279-5d33-42a7-bdb6-b11babfd9209</testSuiteGuid>
    <testCaseLink>
-      <guid>d707003c-ae0a-4253-a5ef-23861f4fa448</guid>
+      <guid>a89cef9b-efba-465e-be6a-a3dedff1443d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Menú Principal/MP_Material de Capacitación/Publicaciones IDEAS</testCaseId>
+      <testCaseId>Test Cases/Menú Principal/MP_Mi Fuerza de Ventas/Resultados e Informes</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>1184277d-6ed4-4827-995c-d77869ecfe96</id>
+         <id>e4ca1dc9-46a4-495c-86b3-5250a3fe9bcb</id>
          <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
+            <iterationType>SPECIFIC</iterationType>
+            <value>1, 2 </value>
          </iterationEntity>
          <testDataId>Data Files/Usuarios</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>1184277d-6ed4-4827-995c-d77869ecfe96</testDataLinkId>
+         <testDataLinkId>e4ca1dc9-46a4-495c-86b3-5250a3fe9bcb</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>usuario</value>
-         <variableId>f1b7f08d-5a20-4d44-97ac-0514faadafa2</variableId>
+         <variableId>ecf6d284-9bca-40b1-acfa-266822fe7538</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>1184277d-6ed4-4827-995c-d77869ecfe96</testDataLinkId>
+         <testDataLinkId>e4ca1dc9-46a4-495c-86b3-5250a3fe9bcb</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>pass</value>
-         <variableId>4e391299-6a35-4af9-9784-df2f11e2fdc9</variableId>
+         <variableId>1b9fe827-908d-4bf3-aeff-5b4eb32fecad</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
