@@ -31,7 +31,7 @@ WebUI.click(findTestObject('Object Repository/Aprende/Tu curso de inicio en GNP/
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/programacion-abc-plan-de-arranque?k=3d3niCYWKX')
 
-WebUI.verifyElementText(findTestObject(null), 'ABC del Agente Tu curso de inicio en GNP')
+WebUI.verifyElementText(findTestObject('Nuevos Objetos/CalCursos'), 'ABC del Agente Tu curso de inicio en GNP')
 
 WebUI.closeBrowser()
 

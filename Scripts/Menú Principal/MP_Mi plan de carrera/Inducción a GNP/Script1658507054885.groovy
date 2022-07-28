@@ -27,7 +27,7 @@ WebUI.click(findTestObject('Object Repository/Inducción a GNP/button_Iniciar se
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/mi-plan-de-carrera/induccion?rand=0.32087270457027506')
 
-WebUI.verifyElementText(findTestObject(null), 'Inducción')
+WebUI.verifyElementText(findTestObject('Nuevos Objetos/CalCursos'), 'Inducción')
 
 WebUI.closeBrowser()
 

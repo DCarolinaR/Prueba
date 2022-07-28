@@ -27,7 +27,7 @@ WebUI.click(findTestObject('Object Repository/button_Iniciar sesin'))
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/component/content/?buscacur=&view=article&id=49&option=com_content&Itemid=564&k=hG9BIY8jkd')
 
-WebUI.verifyElementText(findTestObject(null), 'Cursos')
+WebUI.verifyElementText(findTestObject('Nuevos Objetos/CalCursos'), 'Cursos')
 
 WebUI.closeBrowser()
 

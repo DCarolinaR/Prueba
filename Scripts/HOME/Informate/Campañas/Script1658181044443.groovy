@@ -25,9 +25,9 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Campañas/input_pass'),
 
 WebUI.click(findTestObject('Object Repository/Campañas/button_Iniciar sesin'))
 
-WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/')
+WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/comunicacion-gnp/campanas')
 
-WebUI.verifyElementText(findTestObject(null), 'Campañas')
+WebUI.verifyElementText(findTestObject('Nuevos Objetos/CalCursos'), 'Campañas')
 
 WebUI.closeBrowser()
 

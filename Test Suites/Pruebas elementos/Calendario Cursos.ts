@@ -21,7 +21,7 @@
          <id>dc720ca2-ef87-401e-8bcc-b36926703812</id>
          <iterationEntity>
             <iterationType>SPECIFIC</iterationType>
-            <value>1,6</value>
+            <value>2</value>
          </iterationEntity>
          <testDataId>Data Files/Usuarios</testDataId>
       </testDataLink>

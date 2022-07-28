@@ -27,7 +27,7 @@ WebUI.click(findTestObject('Object Repository/Notas Informativas/button_Iniciar 
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/comunicacion-gnp/circulares')
 
-WebUI.verifyElementText(findTestObject(null), 'Circulares')
+WebUI.verifyElementText(findTestObject('Nuevos Objetos/CalCursos'), 'Notas Informativas')
 
 WebUI.closeBrowser()
 

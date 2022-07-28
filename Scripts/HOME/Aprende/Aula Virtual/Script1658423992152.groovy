@@ -27,7 +27,7 @@ WebUI.click(findTestObject('Object Repository/Aula Virtual/button_Iniciar sesin'
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/cursos-en-linea?rand=0.20232298069365362&k=Fq7rjqIp4B')
 
-WebUI.verifyElementText(findTestObject(null), 'Aula Virtual')
+WebUI.verifyElementText(findTestObject('Aula Virtual/span_Cursos a los que ests inscrito'), 'Cursos a los que estás inscrito')
 
 WebUI.closeBrowser()
 

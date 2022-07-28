@@ -28,9 +28,9 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Aprende/Aprende/input_D
 
 WebUI.click(findTestObject('Object Repository/Aprende/Aprende/button_Iniciar sesin'))
 
-WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/mi-plan-de-carrera/mis-avances?k=ek9dAuJfJJ')
+WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/mi-plan-de-carrera/mis-avances?k=u6gpphPX2q')
 
-WebUI.verifyElementText(findTestObject(null), 'Mis avances')
+WebUI.verifyElementText(findTestObject('Nuevos Objetos/Avances'), 'Programas de Capacitación')
 
 WebUI.closeBrowser()
 

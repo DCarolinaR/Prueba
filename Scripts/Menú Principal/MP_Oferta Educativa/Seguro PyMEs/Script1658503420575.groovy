@@ -27,7 +27,7 @@ WebUI.click(findTestObject('Object Repository/Seguro PyMEs/button_Iniciar sesin'
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/oferta-educativa/pyme-fp?rand=0.23413688285240553')
 
-WebUI.verifyElementText(findTestObject(null), 'Esquema General')
+WebUI.verifyElementText(findTestObject('Nuevos Objetos/title'), 'Esquema General')
 
 WebUI.closeBrowser()
 

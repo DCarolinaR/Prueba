@@ -27,7 +27,7 @@ WebUI.click(findTestObject('Object Repository/Circulares/button_Iniciar sesin'))
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/comunicacion-gnp/circulares')
 
-WebUI.verifyElementText(findTestObject(null), 'Circulares')
+WebUI.verifyElementPresent(findTestObject('Circulares/svg_gnp-starfill6f6f6f .gnp-logofill6f6f6fgnp'), 0)
 
 WebUI.closeBrowser()
 

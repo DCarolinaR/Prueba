@@ -27,7 +27,7 @@ WebUI.click(findTestObject('Object Repository/Reglamento/button_Iniciar sesin'))
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/oferta-educativa/reglamento?rand=0.43305881360643617')
 
-WebUI.verifyElementText(findTestObject(null), 'Reglamento')
+WebUI.verifyElementText(findTestObject('Reglamento/title reglamento'), 'Reglamento')
 
 WebUI.closeBrowser()
 

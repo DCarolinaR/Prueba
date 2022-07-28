@@ -27,7 +27,7 @@ WebUI.click(findTestObject('Object Repository/Inducción GMM/button_Iniciar sesi
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/mi-plan-de-carrera/induccion-gmm?rand=0.4711428848201742')
 
-WebUI.verifyElementText(findTestObject(null), 'Inducción GMM')
+WebUI.verifyElementText(findTestObject('Nuevos Objetos/CalCursos'), 'Inducción GMM')
 
 WebUI.closeBrowser()
 

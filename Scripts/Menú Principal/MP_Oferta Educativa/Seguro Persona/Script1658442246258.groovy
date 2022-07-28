@@ -27,7 +27,7 @@ WebUI.click(findTestObject('Object Repository/Seguro Persona/button_Iniciar sesi
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/oferta-educativa/seguro-de-personas?rand=0.5915293750171644')
 
-WebUI.verifyElementText(findTestObject(null), 'Esquema General')
+WebUI.verifyElementText(findTestObject('Nuevos Objetos/title'), 'Esquema General')
 
 WebUI.closeBrowser()
 

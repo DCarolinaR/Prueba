@@ -27,7 +27,7 @@ WebUI.click(findTestObject('Object Repository/Libros/button_Iniciar sesin'))
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/material-de-apoyo/libros?k=m62BKi9qhA')
 
-WebUI.verifyElementText(findTestObject(null), 'Libros')
+WebUI.verifyElementText(findTestObject('Libros/div_Libros'), 'Libros')
 
 WebUI.closeBrowser()
 

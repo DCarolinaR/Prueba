@@ -27,7 +27,7 @@ WebUI.click(findTestObject('Object Repository/IDEAS GNP/button_Iniciar sesin'))
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/oferta-educativa/ideas-gnp-sp')
 
-WebUI.verifyElementText(findTestObject(null), '¿Quiénes somos?')
+WebUI.verifyElementText(findTestObject('IDEAS GNP/div_Quines somos'), '¿Quiénes somos?')
 
 WebUI.closeBrowser()
 
