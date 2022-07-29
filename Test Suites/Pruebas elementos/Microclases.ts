@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>IDEAS en Corto</name>
+   <name>Microclases</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,15 +10,15 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>b0c709a1-4cfa-47c4-9aad-e892a19370a4</testSuiteGuid>
+   <testSuiteGuid>3221f999-63ae-4dd7-b25b-aec0f61ed5f6</testSuiteGuid>
    <testCaseLink>
-      <guid>e57c7fae-8ba5-41c3-98ce-8004e4b48bb9</guid>
+      <guid>ac885f91-fc7a-4f19-bdd7-a9073696d0ce</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Menú Principal/MP_Autoestudio/IDEAS en Corto</testCaseId>
+      <testCaseId>Test Cases/Menú Principal/MP_Autoestudio/Microclases</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>5cff89c5-2fd4-4e4d-876e-33a1ef9b60bc</id>
+         <id>1d2f16f0-c73c-432b-b317-bfe64c7670b7</id>
          <iterationEntity>
             <iterationType>SPECIFIC</iterationType>
             <value>1</value>
@@ -27,16 +27,16 @@
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>5cff89c5-2fd4-4e4d-876e-33a1ef9b60bc</testDataLinkId>
+         <testDataLinkId>1d2f16f0-c73c-432b-b317-bfe64c7670b7</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>usuario</value>
-         <variableId>7af0513e-4229-49e2-960d-7f9d67e947d2</variableId>
+         <variableId>f5ed0c89-de4c-4af2-b62e-a9c4debf6a9b</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>5cff89c5-2fd4-4e4d-876e-33a1ef9b60bc</testDataLinkId>
+         <testDataLinkId>1d2f16f0-c73c-432b-b317-bfe64c7670b7</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>pass</value>
-         <variableId>5dac7f85-ce86-4ba7-8e67-45b11a223142</variableId>
+         <variableId>e0873c31-66ca-47be-95b2-bba3f24e2e75</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

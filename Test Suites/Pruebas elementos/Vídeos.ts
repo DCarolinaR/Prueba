@@ -20,8 +20,8 @@
          <combinationType>ONE</combinationType>
          <id>d0ff4c70-5499-4ef4-8eb9-3c84f9a5c665</id>
          <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
+            <iterationType>SPECIFIC</iterationType>
+            <value>3</value>
          </iterationEntity>
          <testDataId>Data Files/Usuarios</testDataId>
       </testDataLink>

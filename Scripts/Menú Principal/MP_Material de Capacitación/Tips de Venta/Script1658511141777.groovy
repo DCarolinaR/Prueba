@@ -25,9 +25,9 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Tips de Ventas/input_pa
 
 WebUI.click(findTestObject('Object Repository/Tips de Ventas/button_Iniciar sesin'))
 
-WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/material-de-apoyo/tips-de-venta?rand=0.3343144057137204')
+WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/material-de-apoyo/tips-de-venta?rand=0.6195581960155545')
 
-WebUI.verifyElementText(findTestObject(null), 'Tips de Venta')
+WebUI.verifyElementText(findTestObject('Nuevos Objetos/CalCursos'), 'Tips de Venta')
 
 WebUI.closeBrowser()
 

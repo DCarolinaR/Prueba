@@ -12,31 +12,31 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>2214d067-f125-4a70-a03a-811a9ec6c872</testSuiteGuid>
    <testCaseLink>
-      <guid>3390ce64-530f-4123-8ea8-9d5253e3819c</guid>
+      <guid>d9c7f490-a135-4577-b36f-7127474659c8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Menú Principal/MP_Autoestudio/Cédula B</testCaseId>
+      <testCaseId>Test Cases/Menú Principal/MP_Autoestudio/Cédula A</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>75167248-94f2-4339-8c71-5f56ab2f410f</id>
+         <id>e234f669-83a2-4ffa-a54a-8b74d1610ed6</id>
          <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
+            <iterationType>SPECIFIC</iterationType>
+            <value>2</value>
          </iterationEntity>
          <testDataId>Data Files/Usuarios</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>75167248-94f2-4339-8c71-5f56ab2f410f</testDataLinkId>
+         <testDataLinkId>e234f669-83a2-4ffa-a54a-8b74d1610ed6</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>usuario</value>
-         <variableId>e83ee8a1-9432-48e6-abb5-ffa3468c139d</variableId>
+         <variableId>d4fcd022-5d2e-457a-88c7-ea3ecd33b318</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>75167248-94f2-4339-8c71-5f56ab2f410f</testDataLinkId>
+         <testDataLinkId>e234f669-83a2-4ffa-a54a-8b74d1610ed6</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>pass</value>
-         <variableId>0bbbe37b-1ced-4fc4-a066-994884ef8811</variableId>
+         <variableId>a3da6dee-63b6-4f29-b0a9-a89dbcf50a1b</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

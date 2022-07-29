@@ -25,9 +25,9 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Cédula A/input_pass'),
 
 WebUI.click(findTestObject('Object Repository/Cédula A/button_Iniciar sesin'))
 
-WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/')
+WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/autoestudio/cedula-a?rand=0.8342056310493735')
 
-WebUI.click(findTestObject('Object Repository/Cédula A/a_Cdula A'))
+WebUI.verifyElementText(findTestObject('Nuevos Objetos/CédulaA'), 'Cédula A')
 
 WebUI.closeBrowser()
 

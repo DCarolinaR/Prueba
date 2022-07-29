@@ -27,7 +27,7 @@ WebUI.click(findTestObject('Object Repository/Vídeos/button_Iniciar sesin'))
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/material-de-apoyo/videos-de-anuncios?rand=0.44055434002944005')
 
-WebUI.verifyElementText(findTestObject(null), 'Videos')
+WebUI.verifyElementText(findTestObject('Nuevos Objetos/CalCursos'), 'Videos')
 
 WebUI.closeBrowser()
 

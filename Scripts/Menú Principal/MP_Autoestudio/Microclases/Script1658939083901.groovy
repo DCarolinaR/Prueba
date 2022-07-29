@@ -19,15 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://pru-gnp-portalideas.biaani.com/')
 
-WebUI.setText(findTestObject('Object Repository/Microclases/input_nombreusuario'), 'biaani.agentec')
+WebUI.setText(findTestObject('Object Repository/Microclases/input_nombreusuario'), usuario)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Microclases/input_pass'), 'aCNOeMVT6E+hS+e2Ost8OQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Microclases/input_pass'), pass)
 
 WebUI.click(findTestObject('Object Repository/Microclases/button_Iniciar sesin'))
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/autoestudio/negocio-individual?rand=0.5577186163705883')
 
-WebUI.verifyElementText(findTestObject(null), 'Negocio Individual')
+WebUI.verifyOptionSelectedByLabel(findTestObject('Nuevos Objetos/Select'), 'Selecciona Ramo', false, 0)
 
 WebUI.closeBrowser()
 

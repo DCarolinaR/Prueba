@@ -27,7 +27,7 @@ WebUI.click(findTestObject('Object Repository/Cédula B/button_Iniciar sesin'))
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/autoestudio/cedula-b?rand=0.5870940837530829')
 
-WebUI.verifyElementText(findTestObject(null), 'Cédula B')
+WebUI.verifyElementText(findTestObject('Nuevos Objetos/CédulaA'), 'Cédula B')
 
 WebUI.closeBrowser()
 
