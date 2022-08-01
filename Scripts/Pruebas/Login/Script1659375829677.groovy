@@ -19,15 +19,21 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://pru-gnp-portalideas.biaani.com/')
 
-WebUI.setText(findTestObject('Object Repository/Tips de Ventas/input_nombreusuario'), usuario)
+WebUI.setText(findTestObject('Object Repository/Pruebas/input_nombreusuario'), usuario)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Tips de Ventas/input_pass'), pass)
+WebUI.setEncryptedText(findTestObject('Object Repository/Pruebas/input_pass'), pass)
 
-WebUI.click(findTestObject('Object Repository/Tips de Ventas/button_Iniciar sesin'))
+WebUI.click(findTestObject('Object Repository/Pruebas/button_Iniciar sesin'))
 
-WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/mi-plan-de-carrera/mis-avances')
+WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/')
 
-WebUI.verifyElementText(findTestObject('Nuevos Objetos/CalCursos'), 'Tips de Venta')
+WebUI.callTestCase(findTestCase('Menú Principal/MP_Autoestudio/Cédula A'), [('usuario') : '', ('pass') : ''], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.closeBrowser()
+WebUI.delay(3)
+
+WebUI.callTestCase(findTestCase('Menú Principal/MP_Autoestudio/Cédula B'), [('usuario') : '', ('pass') : ''], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(3)
+
+WebUI.callTestCase(findTestCase('Menú Principal/MP_Autoestudio/Microclases'), [('usuario') : '', ('pass') : ''], FailureHandling.STOP_ON_FAILURE)
 

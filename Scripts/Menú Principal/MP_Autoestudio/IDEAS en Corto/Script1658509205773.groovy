@@ -17,17 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://pru-gnp-portalideas.biaani.com/')
-
-WebUI.setText(findTestObject('Object Repository/IDEAS en Corto/input_nombreusuario'), usuario)
-
-WebUI.setEncryptedText(findTestObject('Object Repository/IDEAS en Corto/input_pass'), pass)
-
-WebUI.click(findTestObject('Object Repository/IDEAS en Corto/button_Iniciar sesin'))
-
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/autoestudio/ideas-en-corto?rand=0.22671669254282278')
 
 WebUI.verifyElementPresent(findTestObject('Nuevos Objetos/imagen tabla'), 0)
-
-WebUI.closeBrowser()
 

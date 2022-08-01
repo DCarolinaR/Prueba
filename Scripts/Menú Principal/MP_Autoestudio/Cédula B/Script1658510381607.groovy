@@ -17,17 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://pru-gnp-portalideas.biaani.com/')
-
-WebUI.setText(findTestObject('Object Repository/Cédula B/input_nombreusuario'), usuario)
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Cédula B/input_pass'), pass)
-
-WebUI.click(findTestObject('Object Repository/Cédula B/button_Iniciar sesin'))
-
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/autoestudio/cedula-b?rand=0.5870940837530829')
 
 WebUI.verifyElementText(findTestObject('Nuevos Objetos/CédulaA'), 'Cédula B')
-
-WebUI.closeBrowser()
 
