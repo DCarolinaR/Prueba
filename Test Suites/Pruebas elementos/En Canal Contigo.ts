@@ -15,13 +15,13 @@
       <guid>6a7fc28c-f180-435e-9c77-5c501000fe54</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/HOME/En Canal Contigo</testCaseId>
+      <testCaseId>Test Cases/En contacto contigo</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>fdb8275b-49d4-474a-9346-ec8ed9fde5d8</id>
          <iterationEntity>
             <iterationType>SPECIFIC</iterationType>
-            <value>1,2,14,20</value>
+            <value>1,6</value>
          </iterationEntity>
          <testDataId>Data Files/Usuarios</testDataId>
       </testDataLink>
@@ -30,13 +30,13 @@
          <testDataLinkId>fdb8275b-49d4-474a-9346-ec8ed9fde5d8</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>usuario</value>
-         <variableId>15dea389-fbde-42ea-9e09-354bddddacce</variableId>
+         <variableId>844440bc-3efe-4be3-9999-d6875cd159a9</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId>fdb8275b-49d4-474a-9346-ec8ed9fde5d8</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>pass</value>
-         <variableId>11814569-9050-4c63-b5a7-fc59643af51c</variableId>
+         <variableId>b0fb9fd2-db09-41ea-bc01-caecc37e6216</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

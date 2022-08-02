@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://pru-gnp-portalideas.biaani.com/')
 
+WebUI.maximizeWindow()
+
 WebUI.setText(findTestObject('Object Repository/Pruebas/input_nombreusuario'), usuario)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Pruebas/input_pass'), pass)
@@ -26,14 +28,4 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Pruebas/input_pass'), p
 WebUI.click(findTestObject('Object Repository/Pruebas/button_Iniciar sesin'))
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/')
-
-WebUI.callTestCase(findTestCase('Menú Principal/MP_Autoestudio/Cédula A'), [('usuario') : '', ('pass') : ''], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.delay(3)
-
-WebUI.callTestCase(findTestCase('Menú Principal/MP_Autoestudio/Cédula B'), [('usuario') : '', ('pass') : ''], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.delay(3)
-
-WebUI.callTestCase(findTestCase('Menú Principal/MP_Autoestudio/Microclases'), [('usuario') : '', ('pass') : ''], FailureHandling.STOP_ON_FAILURE)
 

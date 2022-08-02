@@ -17,17 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Pruebas/Login'), [('usuario') : usuario, ('pass') : pass], FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Objetos/Salir'))
 
-WebUI.callTestCase(findTestCase('Menú Principal/MP_Autoestudio/Cédula A'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Pruebas/Logout'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.delay(3)
-
-WebUI.callTestCase(findTestCase('Pruebas/Login'), [('usuario') : usuario, ('pass') : pass], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Menú Principal/MP_Autoestudio/Cédula B'), [('usuario') : '', ('pass') : ''], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Pruebas/Logout'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.closeBrowser()
 

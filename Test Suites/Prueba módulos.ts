@@ -26,17 +26,5 @@
          <testDataId>Data Files/Usuarios</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId>9078eb09-91f7-4bba-b067-b4f19229ab01</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>usuario</value>
-         <variableId>d4fcd022-5d2e-457a-88c7-ea3ecd33b318</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>9078eb09-91f7-4bba-b067-b4f19229ab01</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>pass</value>
-         <variableId>a3da6dee-63b6-4f29-b0a9-a89dbcf50a1b</variableId>
-      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

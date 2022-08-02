@@ -39,4 +39,23 @@
          <variableId>e56520fc-93c2-455f-a2ef-963e123cb27e</variableId>
       </variableLink>
    </testCaseLink>
+   <testCaseLink>
+      <guid>5f446d09-db62-4fe1-97b4-27a982a33fd9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/En contacto contigo</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>844440bc-3efe-4be3-9999-d6875cd159a9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b0fb9fd2-db09-41ea-bc01-caecc37e6216</variableId>
+      </variableLink>
+   </testCaseLink>
 </TestSuiteEntity>
