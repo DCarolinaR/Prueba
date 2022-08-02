@@ -17,17 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://pru-gnp-portalideas.biaani.com/')
+WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/material-de-apoyo/libros?k=j6akykvynI')
 
-WebUI.setText(findTestObject('Object Repository/Libros/input_nombreusuario'), usuario)
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Libros/input_pass'), pass)
-
-WebUI.click(findTestObject('Object Repository/Libros/button_Iniciar sesin'))
-
-WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/material-de-apoyo/libros?k=m62BKi9qhA')
-
-WebUI.verifyElementText(findTestObject('Libros/div_Libros'), 'Libros')
-
-WebUI.closeBrowser()
+WebUI.verifyElementText(findTestObject('Nuevos Objetos/CalCursos'), 'Libros')
 

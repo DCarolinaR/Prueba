@@ -17,21 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/')
-
-WebUI.setText(findTestObject('Object Repository/Aprende/Tu curso de inicio en GNP/input_La contrasea quehas introducido es in_6ef811'), 
-    'biaani.da')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Aprende/Tu curso de inicio en GNP/input_Deseas recuperar tucontrasea_password'), 
-    'aCNOeMVT6E+hS+e2Ost8OQ==')
-
-WebUI.click(findTestObject('Object Repository/Aprende/Tu curso de inicio en GNP/button_Iniciar sesin'))
-
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/programacion-abc-plan-de-arranque?k=3d3niCYWKX')
 
 WebUI.verifyElementText(findTestObject('Nuevos Objetos/CalCursos'), 'ABC del Agente Tu curso de inicio en GNP')
-
-WebUI.closeBrowser()
 

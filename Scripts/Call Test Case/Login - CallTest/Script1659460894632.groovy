@@ -17,7 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/comunicacion-gnp/campanas')
+WebUI.openBrowser('https://pru-gnp-portalideas.biaani.com/')
 
-WebUI.verifyElementText(findTestObject('Nuevos Objetos/CalCursos'), 'Campañas')
+WebUI.setText(findTestObject('Object Repository/Pruebas/input_nombreusuario'), 'biaani.agentec')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Pruebas/input_pass'), 'aCNOeMVT6E+hS+e2Ost8OQ==')
+
+WebUI.click(findTestObject('Object Repository/Pruebas/button_Iniciar sesin'))
+
+WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/')
+
+WebUI.callTestCase(findTestCase('Menú Principal/MP_Autoestudio/Cédula A'), [('usuario') : '', ('pass') : ''], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(3)
+
+WebUI.callTestCase(findTestCase('Menú Principal/MP_Autoestudio/Cédula B'), [('usuario') : '', ('pass') : ''], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(3)
+
+WebUI.callTestCase(findTestCase('Menú Principal/MP_Autoestudio/Microclases'), [('usuario') : '', ('pass') : ''], FailureHandling.STOP_ON_FAILURE)
 

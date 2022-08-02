@@ -17,7 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/comunicacion-gnp/campanas')
+WebUI.callTestCase(findTestCase('Call Test Case/Login'), [('usuario') : '', ('pass') : ''], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Nuevos Objetos/CalCursos'), 'Campañas')
+WebUI.delay(3)
+
+WebUI.callTestCase(findTestCase('Menú Principal/MP_Autoestudio/Cédula A'), [('usuario') : '', ('pass') : ''], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(3)
+
+WebUI.callTestCase(findTestCase('Menú Principal/MP_Autoestudio/Cédula B'), [('usuario') : '', ('pass') : ''], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(3)
+
+WebUI.callTestCase(findTestCase('Menú Principal/MP_Autoestudio/Microclases'), [('usuario') : '', ('pass') : ''], FailureHandling.STOP_ON_FAILURE)
 

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>MP_Mi Fuerza de Venta</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>5</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>9db3317f-5f7f-49a7-ae96-f60a266adb62</testSuiteGuid>
+   <testCaseLink>
+      <guid>21db7b62-507f-48fd-906f-e987675bc815</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Menú Principal/MP_Mi Fuerza de Ventas/Cursos y designaciones</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a0462e60-4d52-46fc-b2a5-a35edc5b7845</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b2edd3a4-1b9b-4c7a-bc1a-1be9ac6d67fd</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>bd0b9eac-2777-4684-bf24-880dfab2798f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Menú Principal/MP_Mi Fuerza de Ventas/Detalle Colaboradores</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>99a67132-0194-403e-9d80-823afc5b8ea1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>eaa84a14-bbc8-4529-9832-85e1fdf23306</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>46b57f59-4193-4fc2-a4c2-e79c2fec5b41</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Menú Principal/MP_Mi Fuerza de Ventas/Resultados e Informes</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ecf6d284-9bca-40b1-acfa-266822fe7538</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1b9fe827-908d-4bf3-aeff-5b4eb32fecad</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

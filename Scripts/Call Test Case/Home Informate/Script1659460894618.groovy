@@ -17,7 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/comunicacion-gnp/campanas')
+WebUI.callTestCase(findTestCase('Call Test Case/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Nuevos Objetos/CalCursos'), 'Campañas')
+WebUI.delay(3)
+
+WebUI.callTestCase(findTestCase('HOME/Informate/Circulares (informate)'), [('usuario') : '', ('pass') : ''], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(3)
+
+WebUI.callTestCase(findTestCase('HOME/Informate/Notas Informativas'), [('usuario') : '', ('pass') : ''], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(0)
+
+WebUI.callTestCase(findTestCase('HOME/Informate/Calendario Operaciones'), [('usuario') : '', ('pass') : ''], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(3)
+
+WebUI.callTestCase(findTestCase('HOME/Informate/Campañas'), [('usuario') : '', ('pass') : ''], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(0)
+
+WebUI.callTestCase(findTestCase('HOME/Informate/GUIA PORTAL IDEAS'), [('usuario') : '', ('pass') : ''], FailureHandling.STOP_ON_FAILURE)
 
