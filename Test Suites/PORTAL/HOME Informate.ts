@@ -14,7 +14,7 @@
    <testCaseLink>
       <guid>48270ec4-1946-42bf-b459-291f12ed989f</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/HOME/Informate/Calendario Operaciones</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
@@ -33,7 +33,7 @@
    <testCaseLink>
       <guid>e5a44938-e453-4f9e-9fb1-feb3fca4f9d3</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/HOME/Informate/Campañas</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
@@ -52,7 +52,7 @@
    <testCaseLink>
       <guid>67d91447-df62-4407-a670-08c5769646f5</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/HOME/Informate/Circulares (informate)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
@@ -71,7 +71,7 @@
    <testCaseLink>
       <guid>a4f1411e-3c00-4d59-a7b0-3d5e3c37de46</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/HOME/Informate/GUIA PORTAL IDEAS</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
@@ -90,7 +90,7 @@
    <testCaseLink>
       <guid>6e707dd7-40bc-4305-a9d7-32acda983703</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/HOME/Informate/Notas Informativas</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
