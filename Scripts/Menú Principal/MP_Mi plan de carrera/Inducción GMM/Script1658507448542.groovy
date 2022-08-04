@@ -21,5 +21,3 @@ WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/mi-plan-de
 
 WebUI.verifyElementText(findTestObject('Nuevos Objetos/CalCursos'), 'Inducción GMM')
 
-WebUI.closeBrowser()
-

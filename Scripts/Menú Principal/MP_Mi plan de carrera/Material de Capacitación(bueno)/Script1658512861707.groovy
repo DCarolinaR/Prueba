@@ -17,23 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/')
-
-WebUI.maximizeWindow()
-
-WebUI.setText(findTestObject('Object Repository/Material de Capacitación/input_La contrasea quehas introducido es in_6ef811'), 
-    usuario)
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Material de Capacitación/input_Deseas recuperar tucontrasea_password'), 
-    pass)
-
-WebUI.click(findTestObject('Object Repository/Material de Capacitación/button_Iniciar sesin'))
-
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/autoestudio/negocio-individual?rand=0.3869183387725207')
 
-WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/')
-
-WebUI.closeBrowser()
+WebUI.verifyElementText(findTestObject('Nuevos Objetos/CalCursos'), 'Negocio Individual')
 

@@ -17,17 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://pru-gnp-portalideas.biaani.com/')
-
-WebUI.setText(findTestObject('Object Repository/Seguro PyMEs/input_nombreusuario'), usuario)
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Seguro PyMEs/input_pass'), pass)
-
-WebUI.click(findTestObject('Object Repository/Seguro PyMEs/button_Iniciar sesin'))
-
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/oferta-educativa/pyme-fp?rand=0.23413688285240553')
 
 WebUI.verifyElementText(findTestObject('Nuevos Objetos/title'), 'Esquema General')
-
-WebUI.closeBrowser()
 

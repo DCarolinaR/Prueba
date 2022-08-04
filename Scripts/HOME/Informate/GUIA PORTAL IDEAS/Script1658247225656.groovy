@@ -19,5 +19,3 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/images/GuiasPortal/Guia-Ideas_2021_Agentes.pdf')
 
-WebUI.closeBrowser()
-

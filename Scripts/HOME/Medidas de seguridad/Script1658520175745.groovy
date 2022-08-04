@@ -17,19 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://pru-gnp-portalideas.biaani.com/')
-
-WebUI.maximizeWindow()
-
-WebUI.setText(findTestObject('Object Repository/Artículos/input_nombreusuario'), usuario)
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Artículos/input_pass'), pass)
-
-WebUI.click(findTestObject('Object Repository/Artículos/button_Iniciar sesin'))
-
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/medidas-de-seguridad?rand=0.19498452685469303')
 
 WebUI.verifyElementText(findTestObject('Objetos/pub_ideas'), 'Medidas de Seguridad')
-
-WebUI.closeBrowser()
 

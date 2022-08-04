@@ -19,5 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/autoestudio/ideas-en-corto?rand=0.22671669254282278')
 
-WebUI.verifyElementPresent(findTestObject('Nuevos Objetos/imagen tabla'), 0)
+WebUI.verifyElementText(findTestObject('Nuevos Objetos/CalCursos'), 'IDEAS en Corto')
 

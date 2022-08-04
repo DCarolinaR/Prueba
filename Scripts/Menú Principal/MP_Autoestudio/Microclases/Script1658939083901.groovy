@@ -21,5 +21,3 @@ WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/autoestudi
 
 WebUI.verifyOptionSelectedByLabel(findTestObject('Nuevos Objetos/Select'), 'Selecciona Ramo', false, 0)
 
-WebUI.closeBrowser()
-

@@ -17,19 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://pru-gnp-portalideas.biaani.com/')
-
-WebUI.maximizeWindow()
-
-WebUI.setText(findTestObject('Object Repository/Artículos/input_nombreusuario'), usuario)
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Artículos/input_pass'), pass)
-
-WebUI.click(findTestObject('Object Repository/Artículos/button_Iniciar sesin'))
-
-WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/')
-
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/mi-fuerza-de-ventas-separator/cursos-y-designaciones?rand=0.7337685460272695')
 
-WebUI.closeBrowser()
+WebUI.verifyElementText(findTestObject('Nuevos Objetos/Subtitulo'), 'Detalle de Usuarios')
 

@@ -50,25 +50,6 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>b8359592-beee-42b2-9ead-81d8aac94652</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Atracción y Desarrollo/Práticas de trabajo</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>5ac97f2e-fa5b-40cf-a423-1efa048f6dc7</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>487827de-501c-4fac-b63f-5a89493901c4</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
       <guid>1d2e22f5-46d5-4d44-908a-264b27137cba</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
