@@ -19,5 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/material-de-apoyo/publicaciones-ideas')
 
-WebUI.verifyElementText(findTestObject('Objetos/pub_ideas'), 'Publicaciones IDEAS')
+WebUI.verifyElementText(findTestObject('Nuevos Objetos/CalCursos'), 'Publicaciones IDEAS')
 

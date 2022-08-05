@@ -21,11 +21,11 @@ WebUI.openBrowser('https://pru-gnp-portalideas.biaani.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/Artículos/input_nombreusuario'), usuario)
+WebUI.setText(findTestObject('null'), usuario)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Artículos/input_pass'), pass)
+WebUI.setEncryptedText(findTestObject('null'), pass)
 
-WebUI.click(findTestObject('Object Repository/Artículos/button_Iniciar sesin'))
+WebUI.click(findTestObject('null'))
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/')
 

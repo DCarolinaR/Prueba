@@ -19,5 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/oferta-educativa/reglamento?rand=0.43305881360643617')
 
-WebUI.verifyElementText(findTestObject('Reglamento/title reglamento'), 'Reglamento')
+WebUI.verifyElementText(findTestObject('Nuevos Objetos/title reglamento'), 'Reglamento')
 

@@ -19,5 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/mi-plan-de-carrera/etica-y-cumplmiento')
 
-WebUI.verifyElementText(findTestObject('Objetos/pub_ideas'), 'Reclutamiento')
+WebUI.verifyElementText(findTestObject('Nuevos Objetos/CalCursos'), 'Ética y Cumplimiento')
 

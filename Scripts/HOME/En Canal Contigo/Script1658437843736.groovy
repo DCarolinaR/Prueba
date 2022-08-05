@@ -19,5 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/')
 
-WebUI.click(findTestObject('Object Repository/En Canal Contigo/a_Cierre Operaciones'))
+WebUI.click(findTestObject('Object Repository/Nuevos Objetos/a_Cierre Operaciones'))
 

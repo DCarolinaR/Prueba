@@ -19,5 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.navigateToUrl('https://pru-gnp-portalideas.biaani.com/index.php/eventos')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Eventos/div_Eventos'), 'Eventos')
+WebUI.verifyElementText(findTestObject('Object Repository/Nuevos Objetos/div_Eventos'), 'Eventos')
 

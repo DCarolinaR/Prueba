@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Call Test Case/Login'), [('usuario') : usuario, ('pass') : pass], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Menú Principal/MP_Autoestudio/Cédula A'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Menú Principal/MP_Oferta Educativa/IDEAS GNP'), [('usuario') : '', ('pass') : ''], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('Pruebas/Logout'), [:], FailureHandling.STOP_ON_FAILURE)
 
@@ -27,7 +27,8 @@ WebUI.delay(3)
 
 WebUI.callTestCase(findTestCase('Call Test Case/Login'), [('usuario') : usuario, ('pass') : pass], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Menú Principal/MP_Autoestudio/Cédula B'), [('usuario') : '', ('pass') : ''], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Menú Principal/MP_Oferta Educativa/Seguro Persona'), [('usuario') : '', ('pass') : ''], 
+    FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('Pruebas/Logout'), [:], FailureHandling.STOP_ON_FAILURE)
 
